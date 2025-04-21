@@ -166,6 +166,9 @@ GameObject:
   - component: {fileID: 4965508817766359265}
   - component: {fileID: 6065155645779038409}
   - component: {fileID: 4096830184928056171}
+  - component: {fileID: 6962518362625698328}
+  - component: {fileID: 2644503759265378706}
+  - component: {fileID: 8916886690647158215}
   m_Layer: 6
   m_Name: ModelAxisRoot
   m_TagString: Untagged
@@ -182,7 +185,7 @@ Transform:
   m_GameObject: {fileID: 6391887798591967593}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 2497, y: 0, z: 1059}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -301,24 +304,79 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6391887798591967593}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a24e81f560d77cb468c55d40813932a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  modelCamera: {fileID: 0}
+  uiCamera: {fileID: 0}
+  renderLayer: 3DModel
   targetModel: {fileID: 6540934748409514153}
   axisWidth: 2
   labelDistance: 3
+  startYear: 1990
+  endYear: 2020
+  zAxisOffset: 0
   axisMaterial: {fileID: 2100000, guid: c719e38f25a9480abd2480ab621a2949, type: 2}
-  tickMaterial: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  gridMaterial: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   labelFont: {fileID: 11400000, guid: c9adb1f542a93ae489bacfeae21e8394, type: 2}
-  xAxisColor: {r: 1, g: 0, b: 0, a: 1}
-  yAxisColor: {r: 0, g: 1, b: 0, a: 1}
   zAxisColor: {r: 0, g: 0, b: 1, a: 1}
-  tickInterval: 2
+  labelFontSize: 800
   tickSize: 2
-  enableLOD: 1
-  LODDistance: 30
+  gridLineWidth: 0.01
+--- !u!114 &6962518362625698328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6391887798591967593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: affd2186500d33a45933f24395d97911, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  modelCamera: {fileID: 0}
+  uiCamera: {fileID: 0}
+  renderLayer: 3DModel
+  targetModel: {fileID: 6540934748409514153}
+  axisWidth: 0.02
+  labelDistance: 0.3
+  startYear: 1990
+  endYear: 2020
+  zAxisOffset: 0
+  axisMaterial: {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
+  gridMaterial: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  labelFont: {fileID: 11400000, guid: c9adb1f542a93ae489bacfeae21e8394, type: 2}
+  zAxisColor: {r: 0, g: 0, b: 1, a: 1}
+  labelFontSize: 14
+  tickSize: 0.1
+  gridLineWidth: 10
+--- !u!114 &2644503759265378706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6391887798591967593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c71a47ee8bbed4590d977b6b1a4279, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8916886690647158215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6391887798591967593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f81ecb285f3ba42b017d438d1a8c83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6560910644795450298
 GameObject:
   m_ObjectHideFlags: 0
@@ -331,6 +389,7 @@ GameObject:
   - component: {fileID: 1855283161353239498}
   - component: {fileID: 7991490361284856580}
   - component: {fileID: 8168014116643544858}
+  - component: {fileID: 8331484398737988322}
   m_Layer: 6
   m_Name: Canvas
   m_TagString: Untagged
@@ -421,6 +480,18 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &8331484398737988322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6560910644795450298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794ddb578d16da046a0c9823a7f1e535, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8289288229315202423
 GameObject:
   m_ObjectHideFlags: 0

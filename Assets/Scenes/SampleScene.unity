@@ -2330,18 +2330,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 924241761}
     m_Modifications:
     - target: {fileID: 802892187880176770, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 802892187880176770, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 802892187880176770, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 802892187880176770, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1964
       objectReference: {fileID: 0}
@@ -2385,33 +2373,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: visualizationModel
       objectReference: {fileID: 0}
-    - target: {fileID: 4096830184928056171, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4096830184928056171, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: gridMaterial
+    - target: {fileID: 6962518362625698328, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
+      propertyPath: uiCamera
       value: 
-      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-    - target: {fileID: 4096830184928056171, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: labelFontSize
-      value: 800
-      objectReference: {fileID: 0}
-    - target: {fileID: 4965508817766359265, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2497
-      objectReference: {fileID: 0}
-    - target: {fileID: 4965508817766359265, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1059
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 963194227}
+    - target: {fileID: 6962518362625698328, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
+      propertyPath: modelCamera
+      value: 
+      objectReference: {fileID: 1073049769}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6391887798591967593, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1770956857}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
 --- !u!4 &1130443688 stripped
 Transform:
@@ -4063,39 +4036,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1757666380}
   m_CullTransparentMesh: 1
---- !u!1 &1770956853 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6391887798591967593, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-  m_PrefabInstance: {fileID: 1130443687}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1770956857
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1770956853}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: affd2186500d33a45933f24395d97911, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  modelCamera: {fileID: 1073049769}
-  uiCamera: {fileID: 963194227}
-  renderLayer: 3DModel
-  targetModel: {fileID: 2129686406}
-  axisWidth: 0.02
-  labelDistance: 0.3
-  startYear: 1990
-  endYear: 2020
-  zAxisOffset: 0
-  axisMaterial: {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
-  gridMaterial: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
-  labelFont: {fileID: 11400000, guid: c9adb1f542a93ae489bacfeae21e8394, type: 2}
-  zAxisColor: {r: 0, g: 0, b: 1, a: 1}
-  labelFontSize: 14
-  tickSize: 0.1
-  gridLineWidth: 10
 --- !u!1 &1782248844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4947,11 +4887,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &2129686406 stripped
-MeshFilter:
-  m_CorrespondingSourceObject: {fileID: 6540934748409514153, guid: 3aa2c9af81195f9429a0bedea9028f5f, type: 3}
-  m_PrefabInstance: {fileID: 1130443687}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2137480984
 GameObject:
   m_ObjectHideFlags: 0

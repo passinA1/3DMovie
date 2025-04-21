@@ -183,10 +183,9 @@ public class ModelAxisSystem : MonoBehaviour
     {
         int yearCount = endYear - startYear + 1;
         float yearStep = totalZLength / (yearCount - 1);
-        Debug.Log("totalZLength: " + totalZLength + "; yearCount: " + yearCount);
         for (int i = 0; i < yearCount; i++)
         {
-            Debug.Log("i: " + i + "; yearStep: " + yearStep);
+            
             CreateYearTick(i * yearStep, startYear + i);
             CreateGridLine(i * yearStep);
 
@@ -221,8 +220,9 @@ public class ModelAxisSystem : MonoBehaviour
         Vector3 localBase = GetLocalEdgeStartPoint();
 
         // 沿模型本地Z轴偏移
-        Vector3 localLineStart = localBase + new Vector3(0, 0, zPosition);
-
+        Vector3 localLineStart = localBase + new Vector3(0, 0, zPosition/130);
+        
+       
         // 转换为世界坐标
         Vector3 worldLineStart = targetModel.transform.TransformPoint(localLineStart);
 
