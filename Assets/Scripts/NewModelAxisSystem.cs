@@ -43,12 +43,12 @@ public class ModelAxisSystem : MonoBehaviour
     private LineRenderer zAxis;
     private readonly List<LineRenderer> gridLines = new List<LineRenderer>();
     private List<GameObject> ticksPool = new List<GameObject>();
-    private Bounds modelBounds;
+    public Bounds modelBounds;
     private Vector3 lastModelScale;
     private Camera mainCamera;
     private float totalZLength;
-    private Vector3 trueZDirection;
-    private Vector3 trueXDirection;
+    public Vector3 trueZDirection;
+    public Vector3 trueXDirection;
 
     [Header("网格设置")]
     [Tooltip("网格线宽度")]

@@ -1,0 +1,1001 @@
+title,release_year,genres,production_countries,region_tags,budget,revenue,vote_average,vote_count,original_language
+Toy Story,1995,"['Animation', 'Comedy', 'Family']",['United States of America'],['North America'],30000000,373554033,7.7,5415,en
+Jumanji,1995,"['Adventure', 'Fantasy', 'Family']",['United States of America'],['North America'],65000000,262797249,6.9,2413,en
+Grumpier Old Men,1995,"['Romance', 'Comedy']",['United States of America'],['North America'],0,0,6.5,92,en
+Waiting to Exhale,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],16000000,81452156,6.1,34,en
+Father of the Bride Part II,1995,['Comedy'],['United States of America'],['North America'],0,76578911,5.7,173,en
+Heat,1995,"['Action', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],60000000,187436818,7.7,1886,en
+Sabrina,1995,"['Comedy', 'Romance']","['Germany', 'United States of America']","['North America', 'Western Europe']",58000000,0,6.2,141,en
+Tom and Huck,1995,"['Action', 'Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5.4,45,en
+Sudden Death,1995,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],35000000,64350171,5.5,174,en
+GoldenEye,1995,"['Adventure', 'Action', 'Thriller']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",58000000,352194034,6.6,1194,en
+The American President,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],62000000,107879496,6.5,199,en
+Dracula: Dead and Loving It,1995,"['Comedy', 'Horror']","['France', 'United States of America']","['North America', 'Western Europe']",0,0,5.7,210,en
+Balto,1995,"['Family', 'Animation', 'Adventure']",['United States of America'],['North America'],0,11348324,7.1,423,en
+Nixon,1995,"['History', 'Drama']",['United States of America'],['North America'],44000000,13681765,7.1,72,en
+Cutthroat Island,1995,"['Action', 'Adventure']","['France', 'Germany', 'Italy', 'United States of America']","['North America', 'Western Europe']",98000000,10017322,5.7,137,en
+Casino,1995,"['Drama', 'Crime']","['France', 'United States of America']","['North America', 'Western Europe']",52000000,116112375,7.8,1343,en
+Sense and Sensibility,1995,"['Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",16500000,135000000,7.2,364,en
+Four Rooms,1995,"['Crime', 'Comedy']",['United States of America'],['North America'],4000000,4300000,6.5,539,en
+Ace Ventura: When Nature Calls,1995,"['Crime', 'Comedy', 'Adventure']",['United States of America'],['North America'],30000000,212385533,6.1,1128,en
+Money Train,1995,"['Action', 'Comedy', 'Crime']",['United States of America'],['North America'],60000000,35431113,5.4,224,en
+Get Shorty,1995,"['Comedy', 'Thriller', 'Crime']",['United States of America'],['North America'],30250000,115101622,6.4,305,en
+Copycat,1995,"['Drama', 'Thriller']",['United States of America'],['North America'],0,0,6.5,199,en
+Assassins,1995,"['Action', 'Adventure', 'Crime', 'Thriller']","['France', 'United States of America']","['North America', 'Western Europe']",50000000,30303072,6,394,en
+Powder,1995,"['Drama', 'Fantasy', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],0,0,6.3,143,en
+Leaving Las Vegas,1995,"['Drama', 'Romance']",['United States of America'],['North America'],3600000,49800000,7.1,365,en
+Othello,1995,['Drama'],['Italy'],['Western Europe'],0,0,7,33,en
+Now and Then,1995,"['Comedy', 'Drama', 'Family']",['United States of America'],['North America'],12000000,27400000,6.6,91,en
+Persuasion,1995,"['Drama', 'Romance']","['United Kingdom', 'France']",['Western Europe'],0,0,7.4,36,en
+The City of Lost Children,1995,"['Fantasy', 'Science Fiction', 'Adventure']","['France', 'Germany', 'Spain']",['Western Europe'],18000000,1738611,7.6,308,fr
+Shanghai Triad,1995,"['Drama', 'Crime']","['China', 'France']","['East Asia', 'Western Europe']",0,0,6.5,17,zh
+Dangerous Minds,1995,"['Drama', 'Crime']",['United States of America'],['North America'],0,180000000,6.4,249,en
+Twelve Monkeys,1995,"['Science Fiction', 'Thriller', 'Mystery']",['United States of America'],['North America'],29500000,168840000,7.4,2470,en
+Wings of Courage,1996,"['Romance', 'Adventure']","['France', 'United States of America']","['North America', 'Western Europe']",0,0,6.8,4,fr
+Babe,1995,"['Fantasy', 'Drama', 'Comedy', 'Family']","['Australia', 'United States of America']","['North America', 'Oceania']",30000000,254134910,6,756,en
+Carrington,1995,"['History', 'Drama', 'Romance']","['France', 'United Kingdom']",['Western Europe'],0,0,6.4,16,en
+Dead Man Walking,1995,['Drama'],"['United States of America', 'United Kingdom']","['North America', 'Western Europe']",11000000,39363635,7.3,350,en
+Across the Sea of Time,1995,"['Adventure', 'History', 'Drama', 'Family']",['United States of America'],['North America'],0,0,3.5,2,en
+It Takes Two,1995,"['Comedy', 'Family', 'Romance']",['United States of America'],['North America'],0,0,6.1,149,en
+Clueless,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],12000000,0,6.9,828,en
+"Cry, the Beloved Country",1995,['Drama'],['South Africa'],['Africa'],0,676525,6.7,13,en
+Richard III,1995,"['Drama', 'War']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.9,50,en
+Dead Presidents,1995,"['Action', 'Crime', 'Drama', 'History']",['United States of America'],['North America'],10000000,0,6.6,80,en
+Restoration,1995,"['Drama', 'Romance']",['United States of America'],['North America'],19000000,0,6.3,30,en
+Mortal Kombat,1995,"['Action', 'Fantasy']",['United States of America'],['North America'],18000000,122195920,5.4,452,en
+To Die For,1995,"['Fantasy', 'Drama', 'Comedy', 'Thriller']",['United States of America'],['North America'],20000000,21284514,6.7,177,en
+How To Make An American Quilt,1995,"['Drama', 'Romance']",['United States of America'],['North America'],10000000,23574130,6.5,38,en
+Se7en,1995,"['Crime', 'Mystery', 'Thriller']",['United States of America'],['North America'],33000000,327311859,8.1,5915,en
+Pocahontas,1995,"['Adventure', 'Animation', 'Drama', 'Family']",['United States of America'],['North America'],55000000,346079773,6.7,1509,en
+When Night Is Falling,1995,"['Drama', 'Romance']",['Canada'],['North America'],0,0,5.9,10,en
+The Usual Suspects,1995,"['Drama', 'Crime', 'Thriller']",['United States of America'],['North America'],6000000,23341568,8.1,3334,en
+Mighty Aphrodite,1995,"['Comedy', 'Romance']",['United States of America'],['North America'],15000000,6700000,6.7,145,en
+Lamerica,1994,"['Drama', 'Foreign']","['Italy', 'France', 'Switzerland']",['Western Europe'],0,0,7.7,11,it
+The Big Green,1995,"['Action', 'Adventure', 'Comedy', 'Family']",['United States of America'],['North America'],0,0,5.2,41,en
+Georgia,1995,['Drama'],"['France', 'United States of America']","['North America', 'Western Europe']",0,0,6.1,15,en
+Home for the Holidays,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,17519169,6.3,39,en
+The Postman,1994,"['Comedy', 'Drama', 'Romance']","['Belgium', 'France', 'Italy']",['Western Europe'],0,0,7.6,181,it
+The Confessional,1995,"['Thriller', 'Drama', 'Mystery']",['Canada'],['North America'],0,0,6.5,2,fr
+The Indian in the Cupboard,1995,"['Adventure', 'Family', 'Fantasy']",['United States of America'],['North America'],45000000,0,5.9,136,en
+Eye for an Eye,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],20000000,0,5.8,65,en
+Mr. Holland's Opus,1995,"['Music', 'Drama', 'Family']",['United States of America'],['North America'],0,106269971,6.9,115,en
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,['Comedy'],['United States of America'],['North America'],0,0,6.2,192,en
+Two If by Sea,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,4.5,14,en
+Bio-Dome,1996,['Comedy'],['United States of America'],['North America'],15000000,0,4.4,110,en
+Lawnmower Man 2: Beyond Cyberspace,1996,"['Action', 'Science Fiction']",['United States of America'],['North America'],0,2409225,2.8,32,en
+Two Bits,1995,"['Drama', 'Family']",['United States of America'],['North America'],0,0,5.4,11,en
+French Twist,1995,"['Comedy', 'Romance']",['France'],['Western Europe'],0,0,6,43,fr
+Friday,1995,['Comedy'],['United States of America'],['North America'],3500000,28215918,7,513,en
+From Dusk Till Dawn,1996,"['Horror', 'Action', 'Thriller', 'Crime']",['United States of America'],['North America'],19000000,25836616,6.9,1644,en
+Fair Game,1995,"['Action', 'Thriller', 'Romance']",['United States of America'],['North America'],50000000,11534477,4.1,54,en
+Kicking and Screaming,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,718490,7,36,en
+Les Miserables,1995,"['Drama', 'History']",['France'],['Western Europe'],0,0,6.6,8,fr
+Bed of Roses,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,19030691,5.1,27,en
+Big Bully,1996,"['Comedy', 'Family']",['United States of America'],['North America'],15000000,2042530,3.9,16,en
+Screamers,1995,"['Horror', 'Science Fiction']","['Canada', 'Japan', 'United States of America']","['North America', 'East Asia']",20000000,5781885,6.1,154,en
+Nico Icon,1995,['Documentary'],"['Germany', 'United States of America']","['North America', 'Western Europe']",0,0,7.3,3,en
+The Crossing Guard,1995,"['Drama', 'Thriller']",['United States of America'],['North America'],0,0,6.1,74,en
+The Juror,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],44000000,0,5.5,91,en
+The White Balloon,1995,"['Family', 'Drama']",['Iran'],['Middle East'],0,0,7.5,20,fa
+Things to Do in Denver When You're Dead,1995,"['Drama', 'Crime']",['United States of America'],['North America'],8000000,529766,6.7,87,en
+Antonia's Line,1995,"['Drama', 'Comedy']","['Netherlands', 'United Kingdom', 'Belgium']",['Western Europe'],900000,0,7.2,26,nl
+Once Upon a Time... When We Were Colored,1996,"['Romance', 'Drama']",['United States of America'],['North America'],0,0,4.5,2,en
+Angels and Insects,1995,"['Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.3,17,en
+White Squall,1996,"['Action', 'Drama']",['United States of America'],['North America'],38000000,10300000,6.3,86,en
+Dunston Checks In,1996,"['Adventure', 'Comedy', 'Family']",['United States of America'],['North America'],16000000,0,5.1,59,en
+Black Sheep,1996,['Comedy'],['United States of America'],['North America'],0,32,6,124,en
+Nick of Time,1995,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],8169363,8175346,6.1,190,en
+The Journey of August King,1995,['Drama'],['United States of America'],['North America'],0,0,6.7,3,en
+Mary Reilly,1996,"['Drama', 'Horror', 'Thriller', 'Romance']",['United States of America'],['North America'],47000000,12379402,5.7,77,en
+Vampire in Brooklyn,1995,"['Comedy', 'Horror', 'Romance']",['United States of America'],['North America'],14000000,19800000,4.5,113,en
+Beautiful Girls,1996,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.6,103,en
+Broken Arrow,1996,"['Action', 'Adventure', 'Drama', 'Thriller']",['United States of America'],['North America'],50000000,150270147,5.7,459,en
+A Midwinter's Tale,1995,['Comedy'],['United Kingdom'],['Western Europe'],0,0,7.5,6,en
+La Haine,1995,['Drama'],['France'],['Western Europe'],3000000,0,7.9,695,fr
+Shopping,1994,"['Action', 'Adventure', 'Drama', 'Science Fiction', 'Thriller']",['United Kingdom'],['Western Europe'],0,0,5.6,13,en
+Heidi Fleiss: Hollywood Madam,1995,['Documentary'],"['United Kingdom', 'Canada', 'United States of America', 'Germany']","['North America', 'Western Europe']",0,0,6.8,4,en
+City Hall,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],0,0,6,67,en
+Bottle Rocket,1996,"['Comedy', 'Crime', 'Drama']",['United States of America'],['North America'],7000000,560069,6.8,285,en
+Mr. Wrong,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,3.3,16,en
+Unforgettable,1996,"['Drama', 'Mystery', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],18000000,0,5.3,22,en
+Happy Gilmore,1996,['Comedy'],['United States of America'],['North America'],12000000,41205099,6.5,767,en
+The Bridges of Madison County,1995,"['Drama', 'Romance']",['United States of America'],['North America'],24000000,182016617,7.3,397,en
+Nobody Loves Me,1994,"['Drama', 'Comedy', 'Family']",['Germany'],['Western Europe'],0,0,5.1,5,de
+Muppet Treasure Island,1996,"['Action', 'Comedy', 'Music', 'Family', 'Adventure']",['United States of America'],['North America'],0,34327391,6.5,93,en
+Braveheart,1995,"['Action', 'Drama', 'History', 'War']",['United States of America'],['North America'],72000000,210000000,7.7,3404,en
+Rumble in the Bronx,1995,"['Crime', 'Action', 'Comedy', 'Thriller']",['Hong Kong'],['East Asia'],7500000,32392047,6.5,245,cn
+Before and After,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],35000000,0,5.8,37,en
+Margaret's Museum,1995,['Drama'],"['Canada', 'United Kingdom']","['North America', 'Western Europe']",0,0,7.5,2,en
+Happiness Is in the Field,1995,['Comedy'],['France'],['Western Europe'],13365000,0,7,23,en
+Anne Frank Remembered,1995,"['Documentary', 'Drama', 'Foreign']","['United Kingdom', 'United States of America', 'Netherlands']","['North America', 'Western Europe']",0,1,7.3,4,en
+The Young Poisoner's Handbook,1995,"['Comedy', 'Crime', 'Drama']","['Germany', 'France', 'United Kingdom']",['Western Europe'],0,0,6.9,19,en
+If Lucy Fell,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.4,11,en
+Steal Big Steal Little,1995,"['Comedy', 'Drama']",['United States of America'],['North America'],25000000,6278139,5.1,7,en
+Race the Sun,1996,"['Action', 'Adventure', 'Comedy', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5.2,21,en
+The Boys of St. Vincent,1992,['Drama'],['Canada'],['North America'],0,0,7,7,en
+Boomerang,1992,"['Comedy', 'Romance']",['United States of America'],['North America'],40000000,70100000,5.4,139,en
+Chungking Express,1994,"['Drama', 'Comedy', 'Romance']",['Hong Kong'],['East Asia'],0,0,7.9,249,cn
+The Star Maker,1995,"['Drama', 'Romance']",['Italy'],['Western Europe'],0,0,6.8,29,it
+Flirting with Disaster,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],7000000,14702438,6.3,66,en
+The Neverending Story III: Escape from Fantasia,1994,['Fantasy'],"['Germany', 'United States of America']","['North America', 'Western Europe']",17000000,0,4.4,105,en
+The Silences of the Palace,1994,['Drama'],"['Tunisia', 'France']","['Other', 'Western Europe']",0,0,4.3,3,ar
+Angela,1995,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.6,9,en
+Frankie Starlight,1995,"['Drama', 'Romance', 'War']","['United Kingdom', 'United States of America', 'France', 'Ireland']","['North America', 'Other', 'Western Europe']",0,0,5.4,4,it
+Jade,1995,"['Action', 'Thriller', 'Mystery', 'Romance']",['United States of America'],['North America'],50000000,9851610,5.1,45,en
+Nueba Yol,1995,"['Comedy', 'Drama', 'Romance']",['Dominican Republic'],['Other'],0,0,5.5,1,es
+Sonic Outlaws,1995,"['Music', 'Documentary']",['United States of America'],['North America'],0,0,0,0,en
+Down Periscope,1996,['Comedy'],['United States of America'],['North America'],0,0,5.6,110,en
+From the Journals of Jean Seberg,1995,['Documentary'],['United States of America'],['North America'],0,0,6.5,2,en
+Man of the Year,1995,['Comedy'],['United States of America'],['North America'],0,209935,3.8,2,en
+The Neon Bible,1995,['Drama'],['United Kingdom'],['Western Europe'],0,0,7.2,5,en
+Up Close & Personal,1996,"['Drama', 'Romance']",['United States of America'],['North America'],60000000,0,5.9,51,en
+The Birdcage,1996,['Comedy'],['United States of America'],['North America'],31000000,185260553,6.7,303,en
+Virgin Mary,1995,['Drama'],"['Croatia', 'Canada', 'United States of America']","['North America', 'Other']",0,0,7,2,en
+The Brothers McMullen,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.3,23,en
+Bad Boys,1995,"['Action', 'Comedy', 'Crime', 'Thriller']",['United States of America'],['North America'],19000000,141407024,6.5,1729,en
+The Amazing Panda Adventure,1995,"['Action', 'Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5,31,en
+The Basketball Diaries,1995,"['Drama', 'Crime']",['United States of America'],['North America'],0,0,7.2,472,en
+An Awfully Big Adventure,1995,"['Romance', 'Drama', 'Comedy']",['United Kingdom'],['Western Europe'],4000000,851545,6,11,en
+Amateur,1994,"['Crime', 'Comedy', 'Drama', 'Thriller']","['France', 'United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.5,21,en
+Apollo 13,1995,['Drama'],['United States of America'],['North America'],52000000,355237933,7.3,1637,en
+Rob Roy,1995,['Adventure'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",28000000,31596911,6.5,151,en
+The Addiction,1995,"['Drama', 'Horror']",['United States of America'],['North America'],0,0,6.4,46,en
+Batman Forever,1995,"['Action', 'Crime', 'Fantasy']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",100000000,336529144,5.2,1529,en
+Blue in the Face,1995,['Comedy'],['United States of America'],['North America'],2000000,1275000,6.8,28,en
+Canadian Bacon,1995,"['Action', 'Comedy']","['Canada', 'United States of America']",['North America'],11000000,178104,5.9,57,en
+Casper,1995,"['Fantasy', 'Comedy', 'Family']",['United States of America'],['North America'],50000000,287928194,6,1045,en
+Clockers,1995,"['Mystery', 'Crime', 'Drama']",['United States of America'],['North America'],25000000,13071518,6.8,69,en
+Congo,1995,"['Action', 'Adventure', 'Drama', 'Mystery', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],50000000,152022101,5,214,en
+Crimson Tide,1995,"['Action', 'Thriller', 'Drama']",['United States of America'],['North America'],53000000,157387195,7,508,en
+Crumb,1994,['Documentary'],['United States of America'],['North America'],0,3174695,7.6,71,en
+Desperado,1995,"['Thriller', 'Action', 'Crime']",['United States of America'],['North America'],7000000,25405445,6.8,898,en
+Devil in a Blue Dress,1995,"['Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],27000000,16140822,6.3,88,en
+Die Hard: With a Vengeance,1995,"['Action', 'Thriller']",['United States of America'],['North America'],90000000,366101666,6.9,2094,en
+The Doom Generation,1995,"['Action', 'Comedy', 'Crime', 'Drama']","['France', 'United States of America']","['North America', 'Western Europe']",0,0,5.6,57,en
+First Knight,1995,"['Action', 'Adventure', 'Drama', 'Romance']",['United States of America'],['North America'],55000000,127600435,5.9,319,en
+Free Willy 2 - The Adventure Home,1995,['Adventure'],"['France', 'United States of America']","['North America', 'Western Europe']",0,0,5.5,130,en
+Hackers,1995,"['Action', 'Crime', 'Thriller', 'Drama']",['United States of America'],['North America'],20000000,7563728,6.2,406,en
+Jeffrey,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.5,19,en
+Johnny Mnemonic,1995,"['Adventure', 'Action', 'Drama', 'Science Fiction', 'Thriller']","['Canada', 'United States of America']",['North America'],25000000,19075720,5.5,380,en
+Judge Dredd,1995,['Science Fiction'],['United States of America'],['North America'],90000000,113493481,5.4,643,en
+Jury Duty,1995,"['Comedy', 'Drama']",['United States of America'],['North America'],0,17014653,4,34,en
+Kids,1995,"['Drama', 'Crime']",['United States of America'],['North America'],1500000,7412216,6.8,280,en
+Living in Oblivion,1995,"['Drama', 'Comedy']",['United States of America'],['North America'],500000,1148752,7.2,64,en
+Lord of Illusions,1995,"['Mystery', 'Horror', 'Thriller']",['United States of America'],['North America'],0,0,5.9,87,en
+Love & Human Remains,1993,"['Comedy', 'Drama']",['Canada'],['North America'],0,0,7,7,en
+Mad Love,1995,"['Drama', 'Family', 'Romance']",['United States of America'],['North America'],0,15453274,5.5,27,en
+Mallrats,1995,"['Romance', 'Comedy']",['United States of America'],['North America'],6000000,2122561,6.8,400,en
+Mighty Morphin Power Rangers: The Movie,1995,"['Action', 'Adventure', 'Science Fiction', 'Family', 'Fantasy']","['Japan', 'United States of America']","['North America', 'East Asia']",15000000,66000000,5.2,153,en
+Moonlight and Valentino,1995,"['Comedy', 'Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.6,10,en
+Mute Witness,1995,"['Thriller', 'Foreign']","['Germany', 'Russia', 'United Kingdom', 'United States of America']","['North America', 'Eastern Europe', 'Western Europe']",2,1,6.4,36,en
+Nadja,1994,"['Horror', 'Thriller']",['United States of America'],['North America'],0,0,5.9,12,en
+The Net,1995,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Action']",['United States of America'],['North America'],22000000,110627965,5.6,359,en
+Nine Months,1995,['Comedy'],['United States of America'],['North America'],0,69660733,5.5,171,en
+Party Girl,1995,['Comedy'],['United States of America'],['North America'],150000,472370,5.8,14,en
+The Prophecy,1995,"['Fantasy', 'Horror', 'Thriller']",['United States of America'],['North America'],8,16,6.4,139,en
+Reckless,1995,"['Fantasy', 'Comedy', 'Drama']",['United States of America'],['North America'],0,0,10,1,en
+Safe,1995,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7.2,62,en
+The Scarlet Letter,1995,"['Drama', 'History', 'Romance']",['United States of America'],['North America'],50000000,10382407,5.5,111,en
+Showgirls,1995,['Drama'],"['France', 'United States of America']","['North America', 'Western Europe']",45000000,20350754,4.9,261,en
+Smoke,1995,"['Comedy', 'Drama']","['Germany', 'Japan', 'United States of America']","['North America', 'East Asia', 'Western Europe']",7000000,8349430,7.2,115,en
+Something to Talk About,1995,['Comedy'],['United States of America'],['North America'],0,50892160,5.7,60,en
+Species,1995,"['Science Fiction', 'Horror', 'Action']",['United States of America'],['North America'],35000000,113374103,5.5,457,en
+The Stars Fell on Henrietta,1995,['Drama'],['United States of America'],['North America'],0,0,6.6,6,en
+Strange Days,1995,"['Crime', 'Drama', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],42000000,7959291,6.8,334,en
+The Tie That Binds,1995,['Thriller'],['United States of America'],['North America'],14000000,5780000,4.6,9,en
+Three Wishes,1995,"['Drama', 'Fantasy']",['United States of America'],['North America'],0,7025496,6.1,18,en
+Total Eclipse,1995,"['Drama', 'Romance']","['France', 'Belgium', 'United Kingdom']",['Western Europe'],0,339889,6.5,112,en
+"To Wong Foo, Thanks for Everything! Julie Newmar",1995,['Comedy'],['United States of America'],['North America'],0,47774193,6.3,117,en
+Under Siege 2: Dark Territory,1995,"['Action', 'Thriller']",['United States of America'],['North America'],60000000,104324083,5.6,217,en
+Unzipped,1995,['Documentary'],['United States of America'],['North America'],0,0,6,6,en
+A Walk in the Clouds,1995,"['Drama', 'Romance']",['United States of America'],['North America'],20000000,50012507,6.5,168,en
+Waterworld,1995,"['Adventure', 'Action']",['United States of America'],['North America'],175000000,264218220,5.9,1017,en
+White Man's Burden,1995,['Drama'],"['France', 'United States of America']","['North America', 'Western Europe']",8000000,0,5.1,25,en
+The Browning Version,1994,['Drama'],['United Kingdom'],['Western Europe'],0,0,6,11,en
+Bushwhacked,1995,"['Adventure', 'Action', 'Comedy', 'Crime', 'Family']",['United States of America'],['North America'],0,0,4.9,29,en
+Burnt by the Sun,1994,['Drama'],"['France', 'Russia']","['Eastern Europe', 'Western Europe']",2800000,2616503,6.7,35,ru
+Before the Rain,1994,"['Drama', 'War']","['United Kingdom', 'Macedonia', 'France']","['Other', 'Western Europe']",0,763847,7.7,45,en
+Before Sunrise,1995,"['Drama', 'Romance']","['Austria', 'Switzerland', 'United States of America']","['North America', 'Other', 'Western Europe']",2500000,5535405,7.7,984,en
+Billy Madison,1995,['Comedy'],['United States of America'],['North America'],10000000,26488734,6.2,464,en
+The Babysitter,1995,"['Drama', 'Thriller']",['United States of America'],['North America'],0,0,4.7,27,en
+Boys on the Side,1995,"['Comedy', 'Drama']","['France', 'United States of America']","['North America', 'Western Europe']",21000000,23450000,6.3,48,en
+The Cure,1995,"['Drama', 'Family']",['United States of America'],['North America'],0,0,7.2,58,en
+Castle Freak,1995,"['Thriller', 'Drama', 'Horror', 'Mystery']",['United States of America'],['North America'],0,0,5.8,40,en
+Circle of Friends,1995,"['Drama', 'Family', 'Romance']","['Ireland', 'United Kingdom']","['Other', 'Western Europe']",0,0,6.5,30,en
+Clerks,1994,['Comedy'],['United States of America'],['North America'],27000,3151130,7.4,769,en
+Don Juan DeMarco,1994,"['Romance', 'Drama', 'Comedy']",['United States of America'],['North America'],25000000,22200000,6.3,184,en
+Disclosure,1994,"['Drama', 'Thriller', 'Crime', 'Mystery', 'Romance']",['United States of America'],['North America'],55000000,214015089,5.9,217,en
+Dream Man,1995,['Thriller'],"['United States of America', 'Canada']",['North America'],0,0,2.5,1,en
+Drop Zone,1994,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],45000000,0,5.1,91,en
+Destiny Turns on the Radio,1995,"['Crime', 'Comedy', 'Fantasy']",['United States of America'],['North America'],0,0,5.3,9,it
+Death and the Maiden,1994,"['Drama', 'Thriller', 'Mystery']","['United States of America', 'France', 'United Kingdom']","['North America', 'Western Europe']",0,0,7.1,92,en
+Dolores Claiborne,1995,"['Crime', 'Drama', 'Mystery']",['United States of America'],['North America'],0,0,7.1,183,en
+Dumb and Dumber,1994,['Comedy'],['United States of America'],['North America'],16000000,247275374,6.5,1894,en
+Eat Drink Man Woman,1994,"['Comedy', 'Drama', 'Romance']","['Taiwan', 'United States of America']","['North America', 'East Asia']",0,7294403,7.5,76,zh
+Exotica,1994,"['Drama', 'Mystery']",['Canada'],['North America'],0,0,6.5,64,en
+Exit to Eden,1994,"['Thriller', 'Comedy', 'Crime', 'Romance']",['United States of America'],['North America'],0,6841570,4.3,28,en
+Ed Wood,1994,"['Comedy', 'Drama', 'History']",['United States of America'],['North America'],18000000,5887457,7.3,639,en
+French Kiss,1995,"['Comedy', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.2,179,en
+Forget Paris,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.1,38,en
+Far from Home: The Adventures of Yellow Dog,1995,"['Action', 'Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5.6,27,en
+A Goofy Movie,1995,"['Romance', 'Animation', 'Family', 'Comedy', 'Adventure']",['United States of America'],['North America'],0,35348597,6.7,404,en
+Hideaway,1995,"['Drama', 'Thriller']",['United States of America'],['North America'],15000000,12201255,5,24,en
+Fluke,1995,"['Drama', 'Family', 'Fantasy']",['United States of America'],['North America'],0,0,6.6,48,en
+Farinelli,1994,"['History', 'Drama']","['Belgium', 'France', 'Italy']",['Western Europe'],0,0,5.9,20,fr
+Gordy,1995,"['Drama', 'Family', 'Fantasy']",['United States of America'],['North America'],0,3992809,3,4,en
+The Glass Shield,1994,"['Drama', 'Action', 'Thriller', 'Crime']","['United States of America', 'France']","['North America', 'Western Europe']",0,0,5.4,9,en
+Hoop Dreams,1994,['Documentary'],['United States of America'],['North America'],700000,7830611,7.7,91,en
+Heavenly Creatures,1994,"['Drama', 'Fantasy']",['New Zealand'],['Oceania'],5000000,3049135,6.9,299,en
+Immortal Beloved,1994,"['Drama', 'Music', 'Romance']",['United States of America'],['North America'],120,0,6.9,90,en
+Heavyweights,1995,"['Comedy', 'Family', 'Drama']",['United States of America'],['North America'],0,17689177,6,97,en
+The Hunted,1995,"['Action', 'Thriller']",['United States of America'],['North America'],0,0,6,25,en
+I.Q.,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],25000000,0,5.9,112,en
+Interview with the Vampire,1994,"['Horror', 'Romance']",['United States of America'],['North America'],60000000,223664608,7.2,1558,en
+Jefferson in Paris,1995,"['Drama', 'Romance']",['United States of America'],['North America'],14000000,2474000,5.2,10,en
+The Jerky Boys,1995,"['Comedy', 'Crime']",['United States of America'],['North America'],0,0,4.8,10,en
+Junior,1994,"['Comedy', 'Family', 'Romance']",['United States of America'],['North America'],60000000,37000000,4.7,381,en
+Just Cause,1995,"['Action', 'Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],0,0,6,124,en
+Kiss of Death,1995,"['Action', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],40000000,0,5.7,83,en
+Little Women,1994,"['Drama', 'Romance']",['United States of America'],['North America'],18000000,0,7,222,en
+A Little Princess,1995,"['Drama', 'Family', 'Fantasy']",['United States of America'],['North America'],17000000,0,7.4,207,en
+Ladybird Ladybird,1994,['Drama'],['United Kingdom'],['Western Europe'],0,0,7.4,14,en
+L'Enfer,1994,"['Crime', 'Drama']",['France'],['Western Europe'],10000000,0,6.6,22,fr
+Like Water for Chocolate,1992,"['Drama', 'Romance']",['Mexico'],['Latin America'],2000000,21665468,6.6,70,es
+Legends of the Fall,1994,"['Adventure', 'Drama', 'Romance', 'War']",['United States of America'],['North America'],30000000,160638883,7.2,636,en
+Major Payne,1995,"['Adventure', 'Comedy', 'Family']",['United States of America'],['North America'],0,0,6.1,164,en
+Little Odessa,1994,"['Action', 'Drama']",['United States of America'],['North America'],0,0,6.4,31,en
+Mi Vida Loca,1994,"['Crime', 'Drama']",['United States of America'],['North America'],0,0,5.7,9,en
+Love Affair,1994,"['Drama', 'Romance']",['United States of America'],['North America'],60000000,0,4.3,11,en
+Losing Isaiah,1995,['Drama'],['United States of America'],['North America'],17000000,7603766,6.4,28,en
+The Madness of King George,1994,"['Comedy', 'Drama', 'History']",['United Kingdom'],['Western Europe'],0,0,6.7,67,en
+Mary Shelley's Frankenstein,1994,"['Drama', 'Horror', 'Science Fiction', 'Romance']","['United Kingdom', 'Japan', 'United States of America']","['North America', 'East Asia', 'Western Europe']",45000000,112006296,6.1,272,en
+Mixed Nuts,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],15000000,0,5.2,37,en
+Milk Money,1994,"['Comedy', 'Romance']",['United States of America'],['North America'],0,18137661,5.6,49,en
+Miracle on 34th Street,1994,"['Fantasy', 'Drama', 'Family']",['United States of America'],['North America'],0,46264384,6.4,199,en
+Miami Rhapsody,1995,"['Comedy', 'Romance']",['United States of America'],['North America'],6,5,5.6,7,en
+My Family,1995,"['Comedy', 'Drama']",['United States of America'],['North America'],5500000,0,7,11,en
+Murder in the First,1995,"['Crime', 'Drama']","['France', 'United States of America']","['North America', 'Western Europe']",0,17381942,6.9,140,en
+Nobody's Fool,1994,"['Drama', 'Comedy']",['United States of America'],['North America'],0,0,7,56,en
+Nell,1994,"['Drama', 'Thriller']",['United States of America'],['North America'],31000000,106683817,6.1,128,en
+New Jersey Drive,1995,"['Crime', 'Drama']",['United States of America'],['North America'],0,0,6.9,7,en
+New York Cop,1993,"['Action', 'Thriller', 'Crime', 'Drama']","['Japan', 'United States of America']","['North America', 'East Asia']",0,0,0,0,en
+Beyond Bedlam,1994,['Horror'],['United Kingdom'],['Western Europe'],4800000,0,4,4,en
+Nemesis 2 - Nebula,1995,"['Science Fiction', 'Action', 'Thriller']",['United States of America'],['North America'],0,0,4.6,10,en
+Natural Born Killers,1994,"['Crime', 'Thriller', 'Drama']",['United States of America'],['North America'],34000000,50282766,6.9,927,en
+Only You,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.4,92,en
+Once Were Warriors,1994,['Drama'],['New Zealand'],['Oceania'],0,2201126,7.6,106,en
+Poison Ivy II: Lily,1996,"['Drama', 'Romance', 'Thriller']",['United States of America'],['North America'],0,0,4.6,32,en
+Outbreak,1995,"['Action', 'Drama', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],50000000,189859560,6.4,522,en
+Leon: The Professional,1994,"['Thriller', 'Crime', 'Drama']","['France', 'United States of America']","['North America', 'Western Europe']",16000000,45284974,8.2,4293,fr
+The Perez Family,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],11000000,2832826,6.6,9,en
+A Pyromaniac's Love Story,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,7,2,en
+Pulp Fiction,1994,"['Thriller', 'Crime']",['United States of America'],['North America'],8000000,213928762,8.3,8670,en
+Panther,1995,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,6834525,6.4,6,en
+Pushing Hands,1992,"['Comedy', 'Drama']",['Taiwan'],['East Asia'],400000,152322,6.1,9,zh
+Priest,1994,"['Drama', 'Romance']",['United Kingdom'],['Western Europe'],0,4176932,6.4,32,en
+Quiz Show,1994,"['History', 'Drama']",['United States of America'],['North America'],0,0,7.1,262,en
+Picture Bride,1995,"['Drama', 'History']","['Japan', 'United States of America']","['North America', 'East Asia']",0,0,7.4,5,en
+Queen Margot,1994,"['Drama', 'History']","['France', 'Germany', 'Italy']",['Western Europe'],0,0,7,67,fr
+The Quick and the Dead,1995,"['Action', 'Western']","['Japan', 'United States of America']","['North America', 'East Asia']",32000000,18552460,6.2,431,en
+Roommates,1995,"['Drama', 'Comedy']",['United States of America'],['North America'],22000000,12400000,6.4,7,sv
+Prêt-à-Porter,1994,"['Drama', 'Comedy']",['United States of America'],['North America'],15000000,11300653,5.3,33,en
+Three Colors: Red,1994,"['Drama', 'Mystery', 'Romance']","['France', 'Poland', 'Switzerland']","['Eastern Europe', 'Western Europe']",0,0,7.8,246,fr
+Three Colors: Blue,1993,"['Drama', 'Music', 'Mystery']","['France', 'Poland']","['Eastern Europe', 'Western Europe']",0,0,7.7,311,fr
+Three Colors: White,1994,"['Comedy', 'Drama', 'Mystery']","['France', 'Poland']","['Eastern Europe', 'Western Europe']",0,0,7.3,218,fr
+"Red Firecracker, Green Firecracker",1994,['Drama'],"['China', 'Hong Kong']",['East Asia'],0,0,7,2,zh
+Rent-a-Kid,1995,"['Comedy', 'Family', 'TV Movie']",['United States of America'],['North America'],0,0,5.1,15,en
+Relative Fear,1995,"['Horror', 'Drama']",['Canada'],['North America'],0,0,4.7,3,en
+Stuart Saves His Family,1995,"['Comedy', 'Drama']","['Germany', 'United States of America']","['North America', 'Western Europe']",0,0,5,6,en
+The Swan Princess,1994,['Animation'],['United States of America'],['North America'],35000000,9771658,6.5,251,en
+The Secret of Roan Inish,1994,"['Drama', 'Family', 'Fantasy']","['Ireland', 'United States of America']","['North America', 'Other']",0,0,6.1,15,en
+The Specialist,1994,"['Action', 'Thriller']","['Peru', 'United States of America']","['North America', 'Other']",45000000,170362582,5.5,317,en
+Stargate,1994,"['Action', 'Adventure', 'Science Fiction']","['France', 'United States of America']","['North America', 'Western Europe']",55000000,196567262,6.8,942,en
+The Santa Clause,1994,"['Fantasy', 'Drama', 'Comedy', 'Family']",['United States of America'],['North America'],22000000,189833357,6.3,501,en
+The Shawshank Redemption,1994,"['Drama', 'Crime']",['United States of America'],['North America'],25000000,28341469,8.5,8358,en
+Shallow Grave,1994,"['Crime', 'Thriller']",['United Kingdom'],['Western Europe'],0,0,7,247,en
+Suture,1993,"['Drama', 'Thriller']",['United States of America'],['North America'],0,102780,6,7,en
+Strawberry and Chocolate,1993,"['Comedy', 'Drama']","['Cuba', 'Spain']","['Other', 'Western Europe']",0,0,7.1,16,es
+Swimming with Sharks,1994,"['Crime', 'Comedy']",['United States of America'],['North America'],0,0,6.7,104,en
+The Sum of Us,1994,"['Comedy', 'Drama', 'Romance']",['Australia'],['Oceania'],32,0,6,21,en
+Senior Trip,1995,['Comedy'],"['Canada', 'United States of America']",['North America'],0,0,5.7,23,en
+To Live,1994,"['Drama', 'Romance', 'War']","['China', 'Hong Kong']",['East Asia'],0,0,7.7,62,zh
+Tank Girl,1995,"['Action', 'Comedy', 'Fantasy', 'Science Fiction']",['United States of America'],['North America'],25000000,4064495,5.5,140,en
+Tales from the Crypt: Demon Knight,1995,"['Horror', 'Comedy', 'Thriller']",['United States of America'],['North America'],0,0,6.7,96,en
+Star Trek: Generations,1994,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],38000000,120000000,6.4,461,en
+Tales from the Hood,1995,"['Crime', 'Horror', 'Thriller']",['United States of America'],['North America'],6000000,12000000,5.4,33,en
+Tom & Viv,1994,"['Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.8,8,en
+Village of the Damned,1995,"['Thriller', 'Horror', 'Science Fiction']",['United States of America'],['North America'],0,0,5.6,165,en
+Tommy Boy,1995,['Comedy'],['United States of America'],['North America'],0,32648673,6.8,321,en
+Vanya on 42nd Street,1994,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,6.1,15,en
+The Underneath,1995,"['Thriller', 'Crime']",['United States of America'],['North America'],6500000,0,5.6,15,en
+The Walking Dead,1995,"['Drama', 'War']",['United States of America'],['North America'],0,0,6.6,4,en
+What's Eating Gilbert Grape,1993,"['Romance', 'Drama']",['United States of America'],['North America'],11000000,10032765,7.5,943,en
+Virtuosity,1995,"['Action', 'Crime', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],30000000,24048000,5.4,163,en
+While You Were Sleeping,1995,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],17000000,182057016,6.5,340,en
+The War,1994,['Drama'],['United States of America'],['North America'],0,0,6.3,39,en
+Double Happiness,1994,"['Comedy', 'Romance']",['Canada'],['North America'],0,759393,5.5,2,en
+Muriel's Wedding,1994,"['Drama', 'Comedy', 'Romance']","['Australia', 'France']","['Western Europe', 'Oceania']",3000000,15119639,6.9,104,en
+The Baby-Sitters Club,1995,"['Comedy', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5.3,23,en
+Ace Ventura: Pet Detective,1994,"['Comedy', 'Mystery']",['United States of America'],['North America'],15000000,107217396,6.4,1684,en
+"The Adventures of Priscilla, Queen of the Desert",1994,"['Drama', 'Comedy']",['Australia'],['Oceania'],0,11220670,7.2,174,en
+Backbeat,1994,"['Drama', 'Music']","['Germany', 'United Kingdom']",['Western Europe'],0,0,6.2,37,en
+Bitter Moon,1992,"['Thriller', 'Drama', 'Romance']","['France', 'United Kingdom', 'United States of America']","['North America', 'Western Europe']",5000000,1862805,7,115,en
+Bullets Over Broadway,1994,"['Action', 'Comedy', 'Thriller']",['United States of America'],['North America'],0,0,7,130,en
+Clear and Present Danger,1994,"['Action', 'Drama', 'Thriller']",['United States of America'],['North America'],62000000,215887717,6.4,390,en
+The Client,1994,"['Drama', 'Thriller', 'Crime', 'Mystery']",['United States of America'],['North America'],45000000,117615211,6.4,287,en
+"Corrina, Corrina",1994,"['Comedy', 'Drama', 'Family', 'Romance']",['United States of America'],['North America'],0,0,6.4,83,en
+Crooklyn,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,6.7,31,en
+The Crow,1994,"['Fantasy', 'Action', 'Thriller']",['United States of America'],['North America'],15000000,94000000,7.3,980,en
+Cobb,1994,['Drama'],['United States of America'],['North America'],0,1007583,6.1,29,en
+The Flintstones,1994,"['Fantasy', 'Comedy', 'Family']",['United States of America'],['North America'],46000000,341631208,5,559,en
+Forrest Gump,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],55000000,677945399,8.2,8147,en
+Four Weddings and a Funeral,1994,"['Comedy', 'Drama', 'Romance']",['United Kingdom'],['Western Europe'],6000000,254700832,6.6,654,en
+Higher Learning,1995,"['Romance', 'Drama', 'Crime']",['United States of America'],['North America'],0,38290723,6.4,49,en
+I Like It Like That,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,1777020,6.3,4,en
+I Love Trouble,1994,"['Action', 'Comedy', 'Romance']",['United States of America'],['North America'],45000000,61947267,5.3,41,en
+It Could Happen to You,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,6.1,154,en
+The Jungle Book,1994,"['Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,5.9,107,en
+"The Wonderful, Horrible Life of Leni Riefenstahl",1993,"['Documentary', 'Foreign']","['France', 'United Kingdom', 'Germany', 'Belgium']",['Western Europe'],0,449707,7.3,5,en
+The Lion King,1994,"['Family', 'Animation', 'Drama']",['United States of America'],['North America'],45000000,788241776,8,5520,en
+Little Buddha,1993,"['Drama', 'History']","['France', 'Italy', 'Liechtenstein', 'United Kingdom']","['Other', 'Western Europe']",35000000,4858139,6,76,en
+New Nightmare,1994,"['Horror', 'Thriller', 'Mystery', 'Fantasy']",['United States of America'],['North America'],14000000,18090181,6.4,297,en
+The Mask,1994,"['Romance', 'Comedy', 'Crime', 'Fantasy']",['United States of America'],['North America'],23000000,351583407,6.6,2550,en
+Maverick,1994,"['Action', 'Adventure', 'Comedy', 'Drama', 'Western']",['United States of America'],['North America'],0,0,6.6,490,en
+Mrs. Parker and the Vicious Circle,1994,['Drama'],['United States of America'],['North America'],0,0,6.3,20,en
+The Naked Gun 33�? The Final Insult,1994,"['Comedy', 'Crime']",['United States of America'],['North America'],30000000,51132598,6.4,535,en
+The Paper,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],6000000,0,6.1,40,en
+Reality Bites,1994,['Drama'],['United States of America'],['North America'],11500000,20079850,6.5,180,en
+Red Rock West,1993,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],8000000,2000000,6.4,71,en
+Ri¢hie Ri¢h,1994,"['Comedy', 'Family']",['United States of America'],['North America'],40000000,0,5.4,426,en
+Safe Passage,1994,['Drama'],['United States of America'],['North America'],0,0,4.9,7,en
+The River Wild,1994,"['Action', 'Adventure', 'Crime', 'Thriller']",['United States of America'],['North America'],45000000,0,6.1,214,en
+Speed,1994,"['Action', 'Adventure', 'Crime']",['United States of America'],['North America'],30000000,350448145,6.8,1814,en
+Speechless,1994,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.5,24,en
+Timecop,1994,"['Thriller', 'Science Fiction', 'Action', 'Crime']","['Japan', 'United States of America']","['North America', 'East Asia']",27000000,101646581,5.5,288,en
+True Lies,1994,"['Action', 'Thriller']",['United States of America'],['North America'],115000000,378882411,6.8,1138,en
+When a Man Loves a Woman,1994,"['Drama', 'Romance']",['United States of America'],['North America'],0,50021959,6,71,en
+Wolf,1994,['Fantasy'],['United States of America'],['North America'],0,0,6,221,en
+Wyatt Earp,1994,"['Drama', 'Action', 'Western']",['United States of America'],['North America'],63000000,25052000,6.5,203,en
+Bad Company,1995,"['Action', 'Crime', 'Romance', 'Thriller']",['United States of America'],['North America'],0,0,4.9,12,en
+A Man of No Importance,1994,"['Comedy', 'Drama']","['United Kingdom', 'Ireland']","['Other', 'Western Europe']",0,953,6.5,2,en
+S.F.W.,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,6.1,22,en
+A Low Down Dirty Shame,1994,"['Action', 'Comedy', 'Crime']",['United States of America'],['North America'],10000000,29392418,6,31,en
+"Boys Life: Three Stories of Love, Lust, and Liberation",1994,['Drama'],['United States of America'],['North America'],0,0,2,1,en
+Colonel Chabert,1994,['Drama'],['France'],['Western Europe'],0,0,5.9,9,fr
+Jason's Lyric,1994,"['Crime', 'Drama', 'Romance']",['United States of America'],['North America'],7000000,20851521,5.9,9,en
+The Secret Adventures of Tom Thumb,1993,"['Animation', 'Science Fiction']",['United Kingdom'],['Western Europe'],0,0,7.1,8,en
+Street Fighter,1994,"['Action', 'Adventure', 'Thriller']","['Japan', 'United States of America']","['North America', 'East Asia']",35000000,99423521,4.1,330,en
+Coldblooded,1995,"['Action', 'Comedy']",['United States of America'],['North America'],0,0,6.7,13,en
+Fall Time,1995,"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],0,0,6.3,6,en
+The Fear,1995,"['Horror', 'Thriller']",['United States of America'],['North America'],0,0,3.4,7,en
+Frank and Ollie,1995,['Documentary'],['United States of America'],['North America'],0,0,7.5,4,en
+Girl in the Cadillac,1995,"['Romance', 'Adventure', 'Crime', 'Drama']",['United States of America'],['North America'],0,0,10,1,en
+Homage,1995,"['Thriller', 'Drama']",['United States of America'],['North America'],0,0,0,0,en
+Open Season,1996,['Comedy'],['United States of America'],['North America'],0,0,0,0,en
+Highlander: The Final Dimension,1994,"['Action', 'Fantasy', 'Science Fiction']","['Canada', 'France', 'United Kingdom']","['North America', 'Western Europe']",26000000,36800000,4.5,110,en
+In the Mouth of Madness,1994,"['Horror', 'Mystery', 'Thriller']",['United States of America'],['North America'],8000000,8946600,7.1,307,en
+8 Seconds,1994,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,7.2,22,en
+Above the Rim,1994,"['Crime', 'Drama']",['United States of America'],['North America'],0,0,6.7,40,en
+Addams Family Values,1993,"['Comedy', 'Family', 'Fantasy']",['United States of America'],['North America'],0,48919043,6.5,537,en
+Martin Lawrence: You So Crazy,1994,['Comedy'],['United States of America'],['North America'],0,0,4.5,4,en
+The Age of Innocence,1993,"['Drama', 'Romance']",['United States of America'],['North America'],34000000,32255440,7,172,en
+Airheads,1994,"['Comedy', 'Crime', 'Music']",['United States of America'],['North America'],0,0,5.8,222,en
+The Air Up There,1994,"['Comedy', 'Family']",['United States of America'],['North America'],17080000,21011500,5.1,42,en
+Another Stakeout,1993,"['Action', 'Comedy']",['United States of America'],['North America'],0,0,4.9,58,en
+Bad Girls,1994,"['Action', 'Adventure', 'Comedy', 'Drama', 'Western']",['United States of America'],['North America'],0,15240435,4.6,61,en
+Barcelona,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],3200000,0,6.6,20,en
+Being Human,1994,"['Drama', 'Comedy', 'Fantasy']","['Japan', 'United Kingdom']","['East Asia', 'Western Europe']",40000000,0,5,15,en
+The Beverly Hillbillies,1993,['Comedy'],['United States of America'],['North America'],0,0,5,86,en
+Beverly Hills Cop III,1994,"['Action', 'Comedy', 'Crime']",['United States of America'],['North America'],50000000,119208989,5.5,445,en
+Black Beauty,1994,"['Action', 'Adventure', 'Drama', 'Family']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.6,68,en
+Blink,1994,"['Mystery', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],0,16668552,6.3,45,en
+Blown Away,1994,"['Drama', 'Action', 'Thriller']",['United States of America'],['North America'],0,30156002,6,126,en
+Blue Chips,1994,['Drama'],['United States of America'],['North America'],0,0,5.7,41,en
+Blue Sky,1994,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,6.1,28,en
+Body Snatchers,1993,"['Horror', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],13000000,428868,5.8,102,en
+Boxing Helena,1993,"['Drama', 'Romance']",['United States of America'],['North America'],0,1796389,4.5,59,en
+A Bronx Tale,1993,"['Drama', 'Crime']",['United States of America'],['North America'],22000000,17287898,7.4,447,en
+Cabin Boy,1994,['Comedy'],['United States of America'],['North America'],0,3662459,4.9,28,en
+Calendar Girl,1993,"['Drama', 'Comedy']",['United States of America'],['North America'],13000000,2570145,3.7,10,en
+Carlito's Way,1993,"['Action', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],30000000,36516012,7.7,805,en
+City Slickers II: The Legend of Curly's Gold,1994,"['Action', 'Comedy', 'Drama', 'Western']",['United States of America'],['North America'],0,0,4.9,103,en
+Clean Slate,1994,"['Comedy', 'Thriller', 'Mystery']",['United States of America'],['North America'],0,7355425,5.7,25,en
+Cliffhanger,1993,"['Action', 'Adventure', 'Thriller']","['France', 'Italy', 'United States of America']","['North America', 'Western Europe']",70000000,255000211,6.1,600,en
+Coneheads,1993,"['Comedy', 'Science Fiction', 'Family']",['United States of America'],['North America'],0,0,4.8,228,en
+Color of Night,1994,"['Drama', 'Mystery', 'Romance', 'Thriller']",['United States of America'],['North America'],40000000,19726050,5.4,117,en
+Cops & Robbersons,1994,"['Action', 'Comedy', 'Family']",['United States of America'],['North America'],0,0,5,36,en
+The Cowboy Way,1994,"['Western', 'Action', 'Comedy']",['United States of America'],['North America'],0,0,5.1,38,en
+Dangerous Game,1993,['Drama'],['United States of America'],['North America'],0,0,5.4,9,en
+Dave,1993,['Comedy'],['United States of America'],['North America'],0,63000000,6.3,205,en
+Dazed and Confused,1993,"['Comedy', 'Drama']",['United States of America'],['North America'],6900000,7993039,7.4,588,en
+Demolition Man,1993,"['Crime', 'Action', 'Science Fiction']",['United States of America'],['North America'],57000000,159055768,6.4,1018,en
+The Endless Summer 2,1994,['Documentary'],['United States of America'],['North America'],0,0,7.1,12,en
+Even Cowgirls Get the Blues,1994,"['Western', 'Drama', 'Comedy', 'Romance']",['United States of America'],['North America'],8000000,0,4.2,29,en
+Fatal Instinct,1993,['Comedy'],['United States of America'],['North America'],0,0,5.4,37,en
+Farewell My Concubine,1993,['Drama'],"['China', 'Hong Kong']",['East Asia'],0,0,7.8,98,zh
+The Favor,1994,"['Drama', 'Comedy', 'Romance']",['United States of America'],['North America'],0,0,3.3,6,en
+Fearless,1993,['Drama'],['United States of America'],['North America'],0,0,6.8,80,en
+Fear of a Black Hat,1994,['Comedy'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.8,11,en
+With Honors,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,6.1,54,en
+Flesh and Bone,1993,"['Drama', 'Mystery', 'Romance']",['United States of America'],['North America'],0,9488998,6.2,22,en
+Widows' Peak,1994,"['Comedy', 'Thriller', 'Mystery', 'Romance', 'Foreign']","['Ireland', 'United Kingdom']","['Other', 'Western Europe']",0,0,4.3,3,en
+For Love or Money,1993,"['Comedy', 'Romance']",['United States of America'],['North America'],30000000,11146270,5.7,77,en
+The Firm,1993,"['Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],42000000,270248367,6.6,513,en
+Free Willy,1993,"['Family', 'Adventure']","['France', 'United States of America']","['North America', 'Western Europe']",20000000,153698625,6,429,en
+Fresh,1994,"['Crime', 'Drama', 'Thriller']","['France', 'United States of America']","['North America', 'Western Europe']",0,0,7.6,56,en
+The Fugitive,1993,"['Adventure', 'Action', 'Thriller', 'Crime', 'Mystery']",['United States of America'],['North America'],44000000,368875760,7.2,1240,en
+Geronimo: An American Legend,1993,"['History', 'Action', 'Drama', 'Western']",['United States of America'],['North America'],35000000,18635620,5.9,44,en
+The Getaway,1994,"['Drama', 'Action', 'Thriller']","['Japan', 'United States of America']","['North America', 'East Asia']",0,30,5.4,81,en
+Getting Even with Dad,1994,"['Family', 'Comedy', 'Crime']",['United States of America'],['North America'],30000000,0,4.5,43,en
+Go Fish,1994,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,3.9,5,en
+A Good Man in Africa,1994,"['Comedy', 'Drama']","['South Africa', 'United States of America']","['Africa', 'North America']",0,0,5.2,11,en
+Guilty as Sin,1993,"['Drama', 'Thriller']",['United States of America'],['North America'],0,22886222,5.6,21,en
+Hard Target,1993,"['Action', 'Adventure', 'Crime', 'Thriller']",['United States of America'],['North America'],18000000,74189677,6.1,237,en
+Heaven & Earth,1993,"['History', 'War', 'Action', 'Drama']","['France', 'United States of America']","['North America', 'Western Europe']",33000000,0,6.4,51,en
+Hot Shots! Part Deux,1993,"['Action', 'Comedy', 'War']",['United States of America'],['North America'],25000000,133752825,6.2,463,en
+Live Nude Girls,1995,['Comedy'],['United States of America'],['North America'],0,0,4.7,12,en
+The Englishman Who Went Up a Hill But Came Down a Mountain,1995,"['Drama', 'Comedy', 'Romance']",['United Kingdom'],['Western Europe'],0,0,6.1,83,en
+The House of the Spirits,1993,"['Romance', 'Drama']","['Denmark', 'France', 'Germany', 'Portugal', 'United States of America']","['North America', 'Other', 'Northern Europe', 'Western Europe']",25000000,0,6.7,135,en
+The Hudsucker Proxy,1994,"['Comedy', 'Drama']","['Germany', 'United Kingdom', 'United States of America']","['North America', 'Western Europe']",30000000,0,7.1,280,en
+I'll Do Anything,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],40000000,0,5.7,18,en
+In the Army Now,1994,['Comedy'],['United States of America'],['North America'],0,28881266,4.7,54,en
+In the Line of Fire,1993,"['Action', 'Drama', 'Thriller', 'Crime', 'Mystery']",['United States of America'],['North America'],40000000,176997168,6.8,392,en
+In the Name of the Father,1993,['Drama'],"['United Kingdom', 'Ireland']","['Other', 'Western Europe']",13000000,65796862,7.6,363,en
+The Inkwell,1994,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,8880705,3.9,5,en
+What's Love Got to Do with It,1993,"['Drama', 'Music']",['United States of America'],['North America'],0,0,6.9,75,en
+Jimmy Hollywood,1994,['Comedy'],['United States of America'],['North America'],30000000,0,4.6,17,en
+Judgment Night,1993,"['Action', 'Thriller', 'Crime']","['Japan', 'United States of America']","['North America', 'East Asia']",0,12136938,6.4,79,en
+Jurassic Park,1993,"['Adventure', 'Science Fiction']",['United States of America'],['North America'],63000000,920100000,7.6,4956,en
+Kalifornia,1993,"['Thriller', 'Crime']",['United States of America'],['North America'],9000000,2395231,6.5,209,en
+Killing Zoe,1993,"['Action', 'Crime', 'Drama', 'Thriller']","['France', 'United States of America']","['North America', 'Western Europe']",1500000,418961,6.1,111,en
+King of the Hill,1993,['Drama'],['United States of America'],['North America'],0,0,6.4,33,en
+Lassie,1994,"['Action', 'Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,6.1,54,en
+Last Action Hero,1993,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Family']",['United States of America'],['North America'],85000000,137298489,6.1,725,en
+Life With Mikey,1993,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,5.1,24,en
+Lightning Jack,1994,"['Action', 'Comedy', 'Western']","['Australia', 'United States of America']","['North America', 'Oceania']",0,0,5.7,40,en
+M. Butterfly,1993,"['Drama', 'Romance']",['United States of America'],['North America'],0,1499795,6.6,35,en
+Made in America,1993,['Comedy'],"['France', 'United States of America']","['North America', 'Western Europe']",22000000,0,5.3,86,en
+Malice,1993,"['Drama', 'Crime']",['United States of America'],['North America'],0,46405336,5.9,105,en
+The Man without a Face,1993,['Drama'],['United States of America'],['North America'],0,24760338,6.2,125,en
+Manhattan Murder Mystery,1993,"['Comedy', 'Mystery']",['United States of America'],['North America'],13500000,11285588,7.1,169,en
+Menace II Society,1993,"['Drama', 'Action', 'Crime']",['United States of America'],['North America'],3500000,27900000,7.2,179,en
+Executive Decision,1996,"['Action', 'Adventure', 'Drama', 'Thriller']",['United States of America'],['North America'],55000000,121969216,5.8,261,en
+What Happened Was...,1994,"['Thriller', 'Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,7,7,en
+Much Ado About Nothing,1993,"['Drama', 'Comedy', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",8000000,0,7.2,194,en
+Mr. Jones,1993,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,5.9,35,en
+Mr. Wonderful,1993,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.5,11,en
+Mrs. Doubtfire,1993,"['Comedy', 'Drama', 'Family']",['United States of America'],['North America'],25000000,441286195,7,1638,en
+Naked,1993,"['Comedy', 'Drama']",['United Kingdom'],['Western Europe'],0,0,7.5,105,en
+The Next Karate Kid,1994,['Adventure'],['United States of America'],['North America'],12000000,15826984,4.8,202,en
+The New Age,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,4.8,5,en
+No Escape,1994,"['Action', 'Drama', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],20000000,15340000,6.1,86,en
+North,1994,"['Comedy', 'Drama', 'Family', 'Fantasy', 'Science Fiction']",['United States of America'],['North America'],40000000,0,4.8,67,en
+Orlando,1992,"['Romance', 'Drama', 'Fantasy']","['United Kingdom', 'France', 'Italy', 'Netherlands', 'Russia']","['Eastern Europe', 'Western Europe']",4000000,0,6.7,53,en
+A Perfect World,1993,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],30000000,135130999,7.2,376,en
+Philadelphia,1993,['Drama'],['United States of America'],['North America'],26000000,206678440,7.6,1019,en
+The Piano,1993,"['Drama', 'Romance']","['New Zealand', 'Australia', 'France']","['Western Europe', 'Oceania']",7000000,116700000,7.1,290,en
+Poetic Justice,1993,"['Drama', 'Romance']",['United States of America'],['North America'],14000000,27515786,6.9,47,en
+The Program,1993,['Drama'],['United States of America'],['North America'],0,23042200,6,28,en
+The Puppet Masters,1994,"['Horror', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],0,8638072,5.6,41,en
+Radioland Murders,1994,"['Comedy', 'Crime', 'Drama', 'Music', 'Mystery', 'Romance']",['United States of America'],['North America'],0,0,5.8,12,en
+The Ref,1994,['Comedy'],['United States of America'],['North America'],11000000,11439193,6.7,99,en
+The Remains of the Day,1993,"['Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",11500000,23237911,7.5,213,en
+Renaissance Man,1994,"['Comedy', 'War']","['Canada', 'United States of America']",['North America'],40000000,24332324,5.9,83,en
+Rising Sun,1993,"['Action', 'Drama', 'Thriller']",['United States of America'],['North America'],0,107198790,5.8,188,en
+The Road to Wellville,1994,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.5,43,en
+RoboCop 3,1993,"['Action', 'Adventure', 'Crime', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],22000000,10696210,4.2,309,en
+Robin Hood: Men in Tights,1993,['Comedy'],"['France', 'United States of America']","['North America', 'Western Europe']",20000000,35739755,6.4,575,en
+Romeo Is Bleeding,1993,"['Action', 'Crime', 'Drama', 'Thriller']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",11500000,3275585,5.7,36,en
+Romper Stomper,1992,"['Action', 'Drama', 'Thriller']",['Australia'],['Oceania'],0,0,6.6,126,en
+Ruby in Paradise,1993,"['Drama', 'Romance']",['United States of America'],['North America'],800000,1001437,5.6,10,en
+Rudy,1993,['Drama'],['United States of America'],['North America'],12000000,22750363,7.2,187,en
+The Saint of Fort Washington,1993,['Drama'],['United States of America'],['North America'],0,0,4,5,en
+Savage Nights,1992,['Drama'],"['France', 'Italy']",['Western Europe'],0,0,6.2,11,fr
+Schindler's List,1993,"['Drama', 'History', 'War']",['United States of America'],['North America'],22000000,321365567,8.3,4436,en
+The Scout,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.3,37,en
+Searching for Bobby Fischer,1993,['Drama'],['United States of America'],['North America'],0,7266383,7.3,100,en
+Second Best,1994,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.9,8,en
+The Secret Garden,1993,"['Drama', 'Family', 'Fantasy']",['United States of America'],['North America'],0,0,7.1,232,en
+Serial Mom,1994,"['Comedy', 'Crime', 'Horror', 'Thriller']",['United States of America'],['North America'],13000000,7820688,6.4,137,en
+The Shadow,1994,"['Adventure', 'Fantasy', 'Action', 'Thriller', 'Science Fiction']",['United States of America'],['North America'],25000000,48063435,5.4,140,en
+Shadowlands,1993,"['Drama', 'Romance']",['United Kingdom'],['Western Europe'],22000000,0,6.8,61,en
+Short Cuts,1993,"['Comedy', 'Drama']",['United States of America'],['North America'],0,6110979,6.9,136,en
+A Simple Twist of Fate,1994,"['Drama', 'Family']",['United States of America'],['North America'],0,0,5.7,26,en
+Sirens,1993,"['Comedy', 'Drama']","['Australia', 'United Kingdom']","['Western Europe', 'Oceania']",0,7770731,5.2,31,en
+Six Degrees of Separation,1993,"['Mystery', 'Drama', 'Comedy']",['United States of America'],['North America'],0,0,6.5,75,en
+Sleepless in Seattle,1993,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],21000000,227799884,6.5,630,en
+Sliver,1993,"['Drama', 'Thriller']",['United States of America'],['North America'],40000000,116300000,4.9,144,en
+Son in Law,1993,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,36448200,5.6,81,en
+So I Married an Axe Murderer,1993,"['Comedy', 'Crime', 'Romance']",['United States of America'],['North America'],20000000,11585483,6.1,131,en
+Striking Distance,1993,"['Crime', 'Action', 'Mystery', 'Thriller']",['United States of America'],['North America'],30,0,5.4,223,en
+Super Mario Bros.,1993,"['Adventure', 'Comedy', 'Family', 'Fantasy']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",48000000,20915465,4,236,en
+Surviving the Game,1994,"['Action', 'Adventure', 'Thriller', 'Crime']",['United States of America'],['North America'],7400000,7690013,6.1,53,en
+Terminal Velocity,1994,"['Action', 'Thriller']",['United States of America'],['North America'],50000000,16478900,5,82,en
+Thirty Two Short Films About Glenn Gould,1993,"['Drama', 'Music']","['Finland', 'Canada', 'Netherlands', 'Portugal']","['North America', 'Other', 'Northern Europe', 'Western Europe']",0,0,7.4,9,en
+Threesome,1994,"['Comedy', 'Drama', 'Family', 'Romance']",['United States of America'],['North America'],0,0,6.3,57,en
+The Nightmare Before Christmas,1993,"['Fantasy', 'Animation', 'Family']",['United States of America'],['North America'],18000000,75634409,7.6,2135,en
+The Three Musketeers,1993,"['Action', 'Adventure', 'Comedy']","['United States of America', 'Austria']","['North America', 'Other']",30000000,53898845,6.2,219,en
+Tombstone,1993,"['Action', 'Adventure', 'Drama', 'History', 'Western']",['United States of America'],['North America'],25000000,56505065,7.4,632,en
+Trial by Jury,1994,"['Drama', 'Action', 'Thriller']",['United States of America'],['North America'],0,0,5.5,5,en
+True Romance,1993,"['Action', 'Thriller', 'Crime', 'Romance']",['United States of America'],['North America'],12500000,12281551,7.5,762,en
+The War Room,1993,"['Documentary', 'History']",['United States of America'],['North America'],0,0,7.3,19,en
+The Pagemaster,1994,"['Fantasy', 'Science Fiction', 'Family', 'Animation']",['United States of America'],['North America'],27000000,13670688,6.2,178,en
+"Paris, France",1994,"['Drama', 'Comedy']",['Canada'],['North America'],0,0,6,2,en
+Killer,1994,"['Thriller', 'Drama', 'Romance']","['United Kingdom', 'United States of America', 'Canada']","['North America', 'Western Europe']",0,0,3,2,en
+Welcome to the Dollhouse,1995,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,6.9,103,en
+Germinal,1993,"['Drama', 'Romance']","['Belgium', 'France', 'Italy']",['Western Europe'],0,0,6.3,43,en
+Chasers,1994,"['Comedy', 'Romance']",['United States of America'],['North America'],0,1596687,4.7,22,en
+Cronos,1993,"['Drama', 'Horror', 'Thriller']",['Mexico'],['Latin America'],0,0,6.4,153,en
+Naked in New York,1993,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,4,3,en
+Kika,1993,"['Comedy', 'Drama']","['France', 'Spain']",['Western Europe'],0,0,6.8,58,es
+Bhaji on the Beach,1994,"['Comedy', 'Drama']",['United Kingdom'],['Western Europe'],0,0,5.1,10,en
+Little Big League,1994,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,6,20,en
+The Slingshot,1993,['Drama'],"['Denmark', 'Sweden']",['Northern Europe'],0,0,6.2,10,sv
+"Ciao, Professore!",1992,"['Comedy', 'Foreign']",['Italy'],['Western Europe'],0,0,7.2,74,en
+Spanking the Monkey,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],200000,0,5.3,29,en
+The Little Rascals,1994,"['Romance', 'Comedy', 'Family']",['United States of America'],['North America'],0,67308282,6.3,214,en
+Andre,1994,"['Drama', 'Family', 'Adventure']",['United States of America'],['North America'],0,0,5,31,en
+The Escort,1993,"['Thriller', 'Crime', 'Drama']",['Italy'],['Western Europe'],0,0,5,5,it
+The Celluloid Closet,1996,"['History', 'Documentary']",['United States of America'],['North America'],0,0,7,24,en
+Café au Lait,1993,"['Drama', 'Comedy', 'Romance', 'Foreign']","['France', 'Belgium']",['Western Europe'],0,0,6.8,4,en
+Dear Diary,1993,"['Comedy', 'Drama']","['Italy', 'France']",['Western Europe'],0,0,6.9,46,it
+I Don't Want to Talk About It,1993,"['Romance', 'Drama']","['Italy', 'Argentina']","['Latin America', 'Western Europe']",0,0,6,1,en
+The Brady Bunch Movie,1995,['Comedy'],['United States of America'],['North America'],0,0,5.9,87,en
+Home Alone,1990,"['Comedy', 'Family']",['United States of America'],['North America'],18000000,476684675,7.1,2487,en
+Ghost,1990,"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",['United States of America'],['North America'],22000000,505000000,6.9,1381,en
+Aladdin,1992,"['Animation', 'Family', 'Comedy', 'Adventure', 'Fantasy', 'Romance']",['United States of America'],['North America'],28000000,504050219,7.4,3495,en
+Terminator 2: Judgment Day,1991,"['Action', 'Thriller', 'Science Fiction']","['France', 'United States of America']","['North America', 'Western Europe']",100000000,520000000,7.7,4274,en
+Dances with Wolves,1990,"['Adventure', 'Drama', 'Western']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",22000000,424208848,7.6,1084,en
+Tough and Deadly,1995,"['Thriller', 'Action', 'Drama']",['United States of America'],['North America'],0,0,6.3,4,en
+The Silence of the Lambs,1991,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],19000000,272742922,8.1,4549,en
+Beauty and the Beast,1991,"['Romance', 'Family', 'Animation', 'Fantasy', 'Music']",['United States of America'],['North America'],25000000,377350553,7.5,3029,en
+Pretty Woman,1990,"['Romance', 'Comedy']",['United States of America'],['North America'],14000000,463000000,7,1807,en
+Window to Paris,1993,"['Comedy', 'Drama', 'Fantasy']","['France', 'Russia']","['Eastern Europe', 'Western Europe']",0,0,6,6,ru
+Love and a .45,1994,"['Crime', 'Thriller']",['United States of America'],['North America'],0,0,5.5,15,en
+The Wooden Man's Bride,1994,"['Drama', 'Foreign', 'Romance']",['China'],['East Asia'],0,0,6.5,1,en
+Bye Bye Love,1995,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,6.1,20,en
+One Fine Day,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,97529550,6.1,160,en
+Candyman: Farewell to the Flesh,1995,['Horror'],['United States of America'],['North America'],0,13940383,5,64,en
+Century,1993,"['Romance', 'Drama']",['United Kingdom'],['Western Europe'],0,0,5,1,en
+Fargo,1996,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],7000000,60611975,7.7,2080,en
+Homeward Bound II: Lost in San Francisco,1996,"['Adventure', 'Comedy', 'Drama', 'Family']","['Canada', 'United States of America']",['North America'],0,32709423,6,105,en
+Hellraiser: Bloodline,1996,"['Horror', 'Thriller', 'Science Fiction']",['United States of America'],['North America'],4000000,16675000,4.9,111,en
+The Pallbearer,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],8000000,0,4.6,30,en
+Jane Eyre,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,7.1,51,en
+The Flower of My Secret,1995,"['Drama', 'Romance']",['Spain'],['Western Europe'],0,0,6.9,43,es
+Two Much,1996,"['Comedy', 'Romance']","['Spain', 'United States of America']","['North America', 'Western Europe']",0,0,5.1,24,en
+Ed,1996,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,3.6,24,en
+My Favorite Season,1993,['Drama'],['France'],['Western Europe'],0,0,6.4,4,fr
+Condition Red,1995,"['Thriller', 'Action', 'Drama']",['United States of America'],['North America'],0,0,4.7,3,en
+Halfaouine: Boy of the Terraces,1990,"['Comedy', 'Drama']","['France', 'Italy', 'Tunisia']","['Other', 'Western Europe']",0,0,7.4,5,en
+A Thin Line Between Love and Hate,1996,"['Comedy', 'Thriller', 'Crime', 'Romance']",['United States of America'],['North America'],0,0,5.7,15,en
+The Last Supper,1995,"['Comedy', 'Thriller', 'Crime', 'Drama']",['United States of America'],['North America'],0,442965,6.5,82,en
+Primal Fear,1996,"['Crime', 'Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],30000000,102616183,7.4,644,en
+All Dogs Go to Heaven 2,1996,"['Romance', 'Animation', 'Family', 'Adventure', 'Fantasy']",['United States of America'],['North America'],0,8620678,5,50,en
+Land and Freedom,1995,"['Drama', 'History', 'War', 'Romance']","['France', 'Germany', 'Spain', 'United Kingdom', 'Italy']",['Western Europe'],0,0,7,53,en
+Denise Calls Up,1995,['Comedy'],['United States of America'],['North America'],0,0,6.6,5,en
+Theodore Rex,1995,"['Fantasy', 'Science Fiction', 'Family']",['United States of America'],['North America'],33500000,0,3.6,17,en
+A Family Thing,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.6,14,en
+Frisk,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],0,0,3,3,en
+Sgt. Bilko,1996,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,5.5,96,en
+Jack & Sarah,1995,"['Comedy', 'Drama', 'Romance']","['France', 'United Kingdom']",['Western Europe'],0,218626,5.1,10,en
+Girl 6,1996,['Comedy'],['United States of America'],['North America'],12000000,4939939,5.7,17,en
+Diabolique,1996,"['Drama', 'Horror', 'Mystery', 'Thriller']",['United States of America'],['North America'],0,0,5.4,74,en
+"Little Indian, Big City",1994,"['Adventure', 'Drama', 'Comedy', 'Family']",['France'],['Western Europe'],0,0,6,145,fr
+Roula,1995,"['Romance', 'Drama']",['Germany'],['Western Europe'],0,0,5,1,de
+Peanuts �?Die Bank zahlt alles,1996,['Comedy'],['Germany'],['Western Europe'],0,0,4,1,de
+Happy Weekend,1996,['Comedy'],['Germany'],['Western Europe'],0,65335,0,0,de
+Nelly and Monsieur Arnaud,1996,"['Drama', 'Romance']","['Germany', 'France', 'Italy']",['Western Europe'],0,0,7.1,16,fr
+Courage Under Fire,1996,"['Drama', 'Thriller', 'Mystery', 'War']",['United States of America'],['North America'],46000000,100860818,6.2,240,en
+Mission: Impossible,1996,"['Adventure', 'Action', 'Thriller']",['United States of America'],['North America'],80000000,457696359,6.7,2677,en
+Cold Fever,1995,"['Drama', 'Comedy']","['Iceland', 'Denmark', 'Germany', 'Japan', 'United States of America']","['North America', 'East Asia', 'Northern Europe', 'Western Europe']",0,0,7.7,6,de
+Moll Flanders,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,6.2,19,en
+The Superwife,1996,['Comedy'],['Germany'],['Western Europe'],0,0,5.3,7,de
+"301, 302",1995,"['Horror', 'Mystery', 'Thriller']",['South Korea'],['East Asia'],0,0,6.2,10,ko
+DragonHeart,1996,['Fantasy'],['United States of America'],['North America'],57000000,115267375,6.4,553,en
+Und keiner weint mir nach,1996,['Drama'],['Germany'],['Western Europe'],0,0,0,0,de
+My Mother's Courage,1995,['Drama'],"['United Kingdom', 'Germany', 'Ireland', 'Austria']","['Other', 'Western Europe']",0,0,0,0,de
+Eddie,1996,"['Action', 'Comedy']",['United States of America'],['North America'],0,0,5.4,46,en
+Yankee Zulu,1993,"['Drama', 'Comedy']",['South Africa'],['Africa'],0,0,6,4,en
+August,1996,"['Romance', 'Comedy', 'Drama']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.3,3,en
+James and the Giant Peach,1996,"['Adventure', 'Animation', 'Family']",['United States of America'],['North America'],38000000,28921264,6.2,375,en
+Fear,1996,"['Drama', 'Thriller', 'Romance']",['United States of America'],['North America'],0,0,6.1,157,en
+Kids in the Hall: Brain Candy,1996,['Comedy'],"['United States of America', 'Canada']",['North America'],0,0,5.9,26,en
+Faithful,1996,"['Comedy', 'Crime', 'Drama']",['United States of America'],['North America'],13000000,9789900,4.8,4,en
+Underground,1995,"['War', 'Drama', 'Comedy']","['Serbia', 'France', 'Germany', 'Hungary', 'Czech Republic']","['Eastern Europe', 'Other', 'Western Europe']",14000000,0,7.5,143,sr
+All Things Fair,1995,"['War', 'Drama', 'Romance']","['Sweden', 'Denmark']",['Northern Europe'],0,0,6.1,23,sv
+Bloodsport II,1996,"['Action', 'Thriller']",['United States of America'],['North America'],0,684351,5.2,23,en
+Mystery Science Theater 3000: The Movie,1996,"['Comedy', 'Science Fiction']",['United States of America'],['North America'],0,0,7,71,en
+Space Jam,1996,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",['United States of America'],['North America'],80000000,250200000,6.5,1335,en
+Hostile Intentions,1995,"['Thriller', 'Action', 'Drama']",['United States of America'],['North America'],0,0,8,1,en
+The Run of the Country,1995,"['Drama', 'Romance']","['Ireland', 'United States of America']","['North America', 'Other']",0,0,8,2,en
+It's My Party,1996,['Drama'],['United States of America'],['North America'],0,0,6.2,9,en
+Operation Dumbo Drop,1995,"['Action', 'Adventure', 'Comedy', 'Family']",['United States of America'],['North America'],0,0,4.7,37,en
+The Promise,1995,"['Drama', 'Romance']",['Germany'],['Western Europe'],0,0,5,1,de
+Mrs. Winterbourne,1996,"['Comedy', 'Romance', 'Drama']",['United States of America'],['North America'],25000000,10070000,5.5,26,en
+Solo,1996,"['Action', 'Adventure', 'Science Fiction', 'Thriller']","['United States of America', 'Mexico']","['North America', 'Latin America']",0,0,3.9,18,en
+The Substitute,1996,"['Action', 'Thriller']",['United States of America'],['North America'],0,0,5.8,60,en
+Butterfly Kiss,1995,"['Crime', 'Drama', 'Romance', 'Thriller']",['United Kingdom'],['Western Europe'],0,0,7.4,5,en
+Feeling Minnesota,1996,"['Action', 'Comedy', 'Drama', 'Thriller']",['United States of America'],['North America'],0,0,5.5,29,en
+Delta of Venus,1995,"['Drama', 'Romance']",['United States of America'],['North America'],0,62949,3.3,5,en
+Angus,1995,"['Comedy', 'Drama', 'Family', 'Romance']",['United States of America'],['North America'],0,0,6.8,24,en
+Priest Daens,1992,"['Drama', 'History']",['Belgium'],['Western Europe'],0,0,6.7,15,nl
+Boys,1996,"['Romance', 'Drama', 'Mystery']",['United States of America'],['North America'],0,0,5.3,11,en
+The Quest,1996,"['Action', 'Adventure']","['Canada', 'United States of America']",['North America'],30000000,57400547,5.3,126,en
+Cosi,1996,"['Comedy', 'Romance']",['Australia'],['Oceania'],0,0,7.1,9,en
+Mulholland Falls,1996,"['Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],0,0,6.2,73,en
+The Truth About Cats & Dogs,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.7,86,en
+Celtic Pride,1996,['Comedy'],['United States of America'],['North America'],0,0,4.9,35,en
+Flipper,1996,"['Adventure', 'Family']",['United States of America'],['North America'],25530000,20080020,5.3,85,en
+Captives,1994,"['Drama', 'Thriller', 'Mystery', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6,10,en
+Of Love and Shadows,1994,['Drama'],"['Argentina', 'United States of America']","['North America', 'Latin America']",0,0,4.4,11,en
+Dead Man,1995,"['Drama', 'Fantasy', 'Western']","['Germany', 'Japan', 'United States of America']","['North America', 'East Asia', 'Western Europe']",9000000,0,7.2,397,en
+The Horseman on the Roof,1995,"['War', 'Adventure', 'Drama', 'Romance']",['France'],['Western Europe'],35000000,15000000,6.7,25,en
+Mouth to Mouth,1995,"['Comedy', 'Foreign']",['Spain'],['Western Europe'],0,0,5.5,5,es
+The Visitors,1993,"['Fantasy', 'Comedy', 'Science Fiction']",['France'],['Western Europe'],0,0,7.1,433,fr
+Multiplicity,1996,"['Comedy', 'Fantasy', 'Science Fiction']",['United States of America'],['North America'],45000000,0,5.5,158,en
+"The Haunted World of Edward D. Wood, Jr.",1996,['Documentary'],['United States of America'],['North America'],0,0,10,1,en
+Two Friends,2002,"['Drama', 'Foreign']",['Italy'],['Western Europe'],0,0,0,0,en
+The Craft,1996,"['Drama', 'Fantasy', 'Horror', 'Thriller']",['United States of America'],['North America'],15000000,24769466,6.3,388,en
+The Great White Hype,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.1,29,en
+Last Dance,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],0,5,5.6,9,en
+Cold Comfort Farm,1995,"['Comedy', 'Drama', 'Romance']",['United Kingdom'],['Western Europe'],0,0,7,21,en
+"Institute Benjamenta, or This Dream People Call Human Life",1995,"['Animation', 'Drama']","['United Kingdom', 'Germany', 'Japan']","['East Asia', 'Western Europe']",0,0,7.7,11,en
+Heaven's Prisoners,1996,"['Drama', 'Mystery', 'Thriller']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",25000000,0,5,17,en
+Original Gangstas,1996,"['Action', 'Drama', 'Crime', 'Thriller']",['United States of America'],['North America'],4800000,3014000,5.5,5,en
+The Rock,1996,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],75000000,335062621,6.9,1474,en
+Getting Away with Murder,1996,['Comedy'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.5,6,en
+Cemetery Man,1994,"['Fantasy', 'Drama', 'Horror', 'Comedy']","['France', 'Germany', 'Italy']",['Western Europe'],4000000,0,7,105,it
+Twister,1996,"['Action', 'Adventure', 'Drama']",['United States of America'],['North America'],92000000,494471524,6.1,966,en
+Barb Wire,1996,"['Action', 'Science Fiction']",['United States of America'],['North America'],0,3793614,3.9,117,en
+Le Garçu,1995,['Drama'],['France'],['Western Europe'],0,0,5,1,fr
+Honeymoon,1996,['Comedy'],['Germany'],['Western Europe'],0,0,0,0,de
+Ghost in the Shell,1995,"['Action', 'Animation', 'Science Fiction']",['Japan'],['East Asia'],0,2287714,7.8,854,ja
+Thinner,1996,"['Horror', 'Thriller']",['United States of America'],['North America'],0,0,5.5,125,en
+Spy Hard,1996,"['Action', 'Comedy']",['United States of America'],['North America'],18000000,0,4.9,148,en
+Brothers in Trouble,1995,"['Comedy', 'Drama']",['United Kingdom'],['Western Europe'],0,0,0,0,en
+A Close Shave,1995,"['Family', 'Animation', 'Comedy']",['United Kingdom'],['Western Europe'],0,0,7.5,223,en
+The Stupids,1996,"['Comedy', 'Family']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,4.2,22,en
+The Arrival,1996,"['Action', 'Mystery', 'Science Fiction', 'Thriller']","['Mexico', 'United States of America']","['North America', 'Latin America']",25000000,14048372,6.1,200,en
+Careful,1992,"['Horror', 'Comedy', 'Drama', 'Fantasy']",['Canada'],['North America'],0,0,7.8,4,en
+A Month by the Lake,1995,"['Comedy', 'Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7.2,7,en
+Gold Diggers: The Secret of Bear Mountain,1995,['Drama'],"['Canada', 'United States of America']",['North America'],0,0,5.8,20,en
+Carmen Miranda: Bananas Is My Business,1995,['Documentary'],"['Brazil', 'United Kingdom']","['Latin America', 'Western Europe']",0,0,10,1,pt
+Ashes of Time,1994,"['Drama', 'Action']","['Taiwan', 'Hong Kong']",['East Asia'],0,0,7.1,73,zh
+Maya Lin: A Strong Clear Vision,1995,['Documentary'],['United States of America'],['North America'],0,0,0,0,en
+Stalingrad,1993,"['Drama', 'History', 'War']",['Germany'],['Western Europe'],0,0,7.4,116,de
+The Phantom,1996,"['Adventure', 'Action']","['Australia', 'United States of America']","['North America', 'Oceania']",45000000,17300889,4.7,138,en
+Striptease,1996,"['Drama', 'Thriller', 'Crime']",['United States of America'],['North America'],50000000,113309743,4.4,210,en
+Heavy,1995,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,7.7,11,en
+Jack,1996,"['Comedy', 'Drama', 'Science Fiction']",['United States of America'],['North America'],45000000,58620973,5.9,340,en
+I Shot Andy Warhol,1996,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,1814290,6.1,32,en
+The Grass Harp,1995,"['Comedy', 'Drama', 'Family']",['United States of America'],['North America'],0,0,6.1,4,en
+Someone Else's America,1995,['Drama'],"['Serbia', 'Greece', 'United Kingdom', 'France', 'Germany']","['Other', 'Western Europe']",0,0,0,0,sr
+Pharaoh's  Army,1995,"['Western', 'Drama', 'War']",['United States of America'],['North America'],50,0,6.3,5,en
+Trainspotting,1996,"['Drama', 'Crime']",['United Kingdom'],['Western Europe'],4000000,16491080,7.8,2737,en
+Til There Was You,1997,"['Comedy', 'Romance']",['United States of America'],['North America'],1000000,0,3.9,4,en
+Independence Day,1996,"['Action', 'Adventure', 'Science Fiction']",['United States of America'],['North America'],75000000,816969268,6.7,3334,en
+Stealing Beauty,1996,"['Drama', 'Romance']","['France', 'Italy', 'United Kingdom']",['Western Europe'],0,0,6.6,99,en
+The Fan,1996,"['Drama', 'Mystery', 'Thriller']",['United States of America'],['North America'],55000000,18626419,5.7,202,en
+The Hunchback of Notre Dame,1996,"['Drama', 'Animation', 'Family']",['United States of America'],['North America'],100000000,100138851,6.8,1182,en
+The Cable Guy,1996,"['Comedy', 'Drama', 'Thriller']",['United States of America'],['North America'],47000000,102825796,5.7,603,en
+Kingpin,1996,['Comedy'],['United States of America'],['North America'],27000000,25023434,6.7,248,en
+Eraser,1996,"['Action', 'Drama', 'Mystery', 'Thriller']","['Canada', 'United States of America']",['North America'],100000000,242295562,5.6,553,en
+The Nutty Professor,1996,"['Fantasy', 'Comedy', 'Romance', 'Science Fiction']",['United States of America'],['North America'],54000000,128769345,5.4,717,en
+"I, the Worst of All",1990,"['Drama', 'Foreign']",['Argentina'],['Latin America'],0,0,6.8,3,es
+An Unforgettable Summer,1994,"['Drama', 'Romance', 'War']","['France', 'Romania']","['Eastern Europe', 'Western Europe']",0,65352,7.2,6,ro
+Somebody to Love,1994,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.1,2,en
+The Old Lady Who Walked in the Sea,1991,['Comedy'],['France'],['Western Europe'],0,0,0,0,fr
+Daylight,1996,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],80000000,159212469,5.8,385,en
+The Frighteners,1996,"['Horror', 'Comedy']","['New Zealand', 'United States of America']","['North America', 'Oceania']",30000000,29359216,6.7,413,en
+Lone Star,1996,"['Drama', 'Mystery', 'Romance']",['United States of America'],['North America'],5000000,13269963,6.9,79,en
+Harriet the Spy,1996,"['Comedy', 'Drama', 'Family']",['United States of America'],['North America'],12000000,0,5.7,47,en
+Phenomenon,1996,"['Drama', 'Fantasy', 'Romance', 'Science Fiction']",['United States of America'],['North America'],32000000,152036382,6.2,328,en
+Walking and Talking,1996,"['Comedy', 'Drama', 'Romance']","['Germany', 'United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.6,8,en
+She's the One,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],3500000,9482579,5.7,71,en
+A Time to Kill,1996,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],40000000,152266007,7,522,en
+American Buffalo,1996,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,665450,6.2,9,en
+Rendezvous in Paris,1995,"['Romance', 'Comedy']",['France'],['Western Europe'],0,0,6.5,4,fr
+Alaska,1996,['Adventure'],['Canada'],['North America'],23000000,0,5.2,32,en
+Fled,1996,"['Action', 'Comedy', 'Thriller']",['United States of America'],['North America'],25000000,17193231,5.2,49,en
+Kazaam,1996,"['Fantasy', 'Comedy', 'Science Fiction', 'Family']",['United States of America'],['North America'],20000000,0,3.6,60,en
+Larger Than Life,1996,"['Family', 'Comedy']",['United States of America'],['North America'],30000000,0,5.4,35,en
+Two Deaths,1995,"['War', 'Drama']",['United Kingdom'],['Western Europe'],0,0,7,2,en
+A Very Brady Sequel,1996,['Comedy'],['United States of America'],['North America'],0,0,5.8,42,en
+Kaspar Hauser,1993,"['Drama', 'Foreign']","['Austria', 'Germany', 'Sweden']","['Other', 'Northern Europe', 'Western Europe']",0,0,6.3,4,de
+Regular Guys,1996,"['Comedy', 'Foreign']",['Germany'],['Western Europe'],0,0,5.2,9,de
+Diebinnen,1996,['Drama'],['Germany'],['Western Europe'],0,0,4,1,de
+The Adventures of Pinocchio,1996,"['Animation', 'Family', 'Fantasy']","['Czech Republic', 'France', 'Germany', 'United Kingdom', 'United States of America']","['North America', 'Eastern Europe', 'Western Europe']",0,0,5,55,en
+Joe's Apartment,1996,"['Fantasy', 'Comedy', 'Music']",['United States of America'],['North America'],13000000,4619014,5,87,en
+The First Wives Club,1996,['Comedy'],['United States of America'],['North America'],26000000,116400000,6.5,172,en
+Stonewall,1995,"['Romance', 'Drama', 'Comedy']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7.2,10,en
+Ransom,1996,"['Action', 'Thriller']",['United States of America'],['North America'],80000000,309492681,6.4,482,en
+High School High,1996,['Comedy'],['United States of America'],['North America'],0,21302121,5.4,51,en
+Phat Beach,1996,['Comedy'],['United States of America'],['North America'],0,0,5.4,8,en
+Foxfire,1996,"['Action', 'Drama', 'Thriller']",['United States of America'],['North America'],0,258263,6.3,30,en
+Chain Reaction,1996,"['Action', 'Drama', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],50000000,60209334,5.3,291,en
+Matilda,1996,"['Comedy', 'Family', 'Fantasy']",['United States of America'],['North America'],36000000,33459416,6.9,892,en
+Emma,1996,"['Drama', 'Comedy', 'Romance']",['United States of America'],['North America'],6000000,22231658,6.7,152,en
+The Crow: City of Angels,1996,"['Action', 'Fantasy', 'Thriller']",['United States of America'],['North America'],13000000,17917287,5.2,119,en
+House Arrest,1996,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,5,32,en
+Bordello of Blood,1996,"['Horror', 'Comedy']",['United States of America'],['North America'],15000000,5600000,5,63,en
+Flirt,1995,"['Drama', 'Romance']","['Germany', 'Japan', 'United States of America']","['North America', 'East Asia', 'Western Europe']",0,0,7.5,4,en
+The Big Squeeze,1996,['Drama'],['United States of America'],['North America'],0,0,5,1,en
+The Spitfire Grill,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],6000000,12643776,6.8,17,en
+Escape from L.A.,1996,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],50000000,42277365,5.6,381,en
+Cyclo,1995,"['Crime', 'Drama']","['Vietnam', 'Hong Kong', 'France']","['East Asia', 'Western Europe', 'Southeast Asia']",0,0,6.8,23,vi
+Basquiat,1996,"['Drama', 'History']",['United States of America'],['North America'],2962051,3011195,6.6,97,en
+Tin Cup,1996,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],45000000,53854588,5.9,152,en
+Dingo,1991,"['Drama', 'Music']","['Australia', 'France']","['Western Europe', 'Oceania']",200000,300000,6,1,en
+Every Other Weekend,1990,['Drama'],['France'],['Western Europe'],0,0,6,2,fr
+Maybe... Maybe Not,1994,"['Comedy', 'Drama']",['Germany'],['Western Europe'],0,0,6.1,34,de
+Police Story 3: Supercop,1992,"['Action', 'Crime', 'Thriller']",['Hong Kong'],['East Asia'],900000,20483423,6.7,109,cn
+Manny & Lo,1996,"['Drama', 'Comedy']",['United States of America'],['North America'],500000,431326,6.3,9,en
+Bound,1996,"['Crime', 'Drama', 'Romance', 'Thriller']",['United States of America'],['North America'],4500000,7011317,6.9,203,en
+Carpool,1996,"['Comedy', 'Family']",['United States of America'],['North America'],17000000,0,4.9,17,en
+Death in Brunswick,1990,['Drama'],['Australia'],['Oceania'],0,0,6.1,7,en
+Kansas City,1996,"['Thriller', 'Drama', 'Music', 'Crime']",['United States of America'],['North America'],18000000,0,6.1,13,en
+Gone Fishin',1997,"['Comedy', 'Family']",['United States of America'],['North America'],53000000,0,4.7,48,en
+Vive L'Amour,1994,['Drama'],['Taiwan'],['East Asia'],0,0,7.3,16,zh
+Killer: A Journal of Murder,1996,['Drama'],['United States of America'],['North America'],0,0,6.3,10,en
+Project S,1993,"['Action', 'Adventure', 'Crime']",['Hong Kong'],['East Asia'],0,0,5.8,12,cn
+Girls Town,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,5.2,3,en
+The Relic,1997,"['Horror', 'Mystery', 'Thriller']","['Germany', 'Japan', 'New Zealand', 'United Kingdom', 'United States of America']","['North America', 'East Asia', 'Oceania', 'Western Europe']",60000000,33956608,5.8,130,en
+The Island of Dr. Moreau,1996,"['Fantasy', 'Horror', 'Science Fiction']",['United States of America'],['North America'],40000000,49627779,4.6,148,en
+First Kid,1996,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,5.3,28,en
+The Trigger Effect,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],8000000,0,6.6,18,en
+Bogus,1996,"['Fantasy', 'Comedy', 'Family']",['United States of America'],['North America'],32000000,0,5.4,46,en
+Bulletproof,1996,"['Action', 'Adventure', 'Comedy', 'Thriller']",['United States of America'],['North America'],25000000,22611954,5.4,164,en
+Talk of Angels,1998,"['Drama', 'Romance', 'War']",['United States of America'],['North America'],0,0,6.8,4,en
+The Land Before Time III: The Time of the Great Giving,1995,"['Animation', 'Adventure', 'Family']",['United States of America'],['North America'],0,0,6.1,86,en
+Halloween: The Curse of Michael Myers,1995,"['Horror', 'Thriller']",['United States of America'],['North America'],5000000,15116634,5,173,en
+Twelfth Night,1996,"['Drama', 'Comedy', 'Romance']","['United Kingdom', 'Ireland', 'United States of America']","['North America', 'Other', 'Western Europe']",0,0,7,22,en
+Mother Night,1996,"['Drama', 'History']",['United States of America'],['North America'],0,0,7.1,13,en
+Wild Reeds,1994,"['Drama', 'Romance']",['France'],['Western Europe'],0,0,7.4,18,fr
+Nothing Personal,1996,['Drama'],"['Ireland', 'United Kingdom']","['Other', 'Western Europe']",0,0,4,1,en
+Dangerous Ground,1997,['Drama'],"['United States of America', 'South Africa']","['North America', 'Africa']",0,3028094,5,8,en
+The Pompatus of Love,1996,"['Comedy', 'Romance', 'Drama']","['United States of America', 'France']","['North America', 'Western Europe']",0,0,5.3,2,en
+Fly Away Home,1996,"['Action', 'Adventure', 'Drama', 'Family']",['United States of America'],['North America'],0,0,6.6,114,en
+Bliss,1997,"['Drama', 'Romance']","['Canada', 'United States of America']",['North America'],0,294064,4.8,6,en
+Grace of My Heart,1996,"['Drama', 'Comedy', 'Music']",['United States of America'],['North America'],0,0,6.5,15,en
+Brother of Sleep,1995,['Drama'],"['Austria', 'Germany']","['Other', 'Western Europe']",0,0,6.8,6,de
+Maximum Risk,1996,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],25000000,51702483,5.3,104,en
+Michael Collins,1996,"['Drama', 'Thriller']","['Ireland', 'United Kingdom']","['Other', 'Western Europe']",28000000,16900000,6.8,98,en
+The Rich Man's Wife,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],0,8538318,4.9,11,en
+Infinity,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,0,0,en
+Big Night,1996,['Drama'],['United States of America'],['North America'],0,0,6.8,45,en
+Last Man Standing,1996,"['Action', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],67000000,47267001,6.2,263,en
+Caught,1996,"['Action', 'Drama', 'Thriller']",['United States of America'],['North America'],0,0,6.5,5,en
+Set It Off,1996,"['Drama', 'Action', 'Crime']",['United States of America'],['North America'],9000000,41590886,6.9,66,en
+2 Days in the Valley,1996,"['Comedy', 'Crime']",['United States of America'],['North America'],0,0,5.9,73,en
+Curdled,1996,"['Comedy', 'Crime', 'Thriller']",['United States of America'],['North America'],2300000,49620,6.2,29,en
+Extreme Measures,1996,"['Drama', 'Thriller']",['United States of America'],['North America'],38000000,17380126,5.7,80,en
+The Glimmer Man,1996,"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],45000000,0,4.7,102,en
+D3: The Mighty Ducks,1996,"['Action', 'Comedy', 'Drama', 'Family']",['United States of America'],['North America'],0,22955097,5.3,99,en
+The Chamber,1996,"['Crime', 'Drama']",['United States of America'],['North America'],50000000,22540359,5.9,62,en
+Homeward Bound: The Incredible Journey,1993,"['Adventure', 'Comedy', 'Drama', 'Family']",['United States of America'],['North America'],0,0,6.6,218,en
+Cool Runnings,1993,['Comedy'],['United States of America'],['North America'],14000000,154864401,6.8,510,en
+Angels in the Outfield,1994,"['Fantasy', 'Drama', 'Comedy', 'Family']",['United States of America'],['North America'],0,50236831,5.7,124,en
+Robin Hood: Prince of Thieves,1991,['Adventure'],['United States of America'],['North America'],48000000,390493908,6.6,937,en
+Freeway,1996,"['Comedy', 'Drama', 'Thriller']",['United States of America'],['North America'],3000000,0,6.5,95,en
+The Lawnmower Man,1992,"['Horror', 'Thriller', 'Science Fiction']","['United Kingdom', 'Japan', 'United States of America']","['North America', 'East Asia', 'Western Europe']",10000000,32101000,5.4,198,en
+Unhook the Stars,1996,"['Drama', 'Romance']","['France', 'United States of America']","['North America', 'Western Europe']",0,0,6.2,11,en
+The Secret Agent,1996,"['Drama', 'Thriller']",['United Kingdom'],['Western Europe'],0,0,5,7,en
+Secrets & Lies,1996,['Drama'],"['United Kingdom', 'France']",['Western Europe'],4500000,13417292,7.1,127,en
+That Thing You Do!,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,34585416,6.8,230,en
+To Gillian on Her 37th Birthday,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,4137645,5.1,13,en
+Surviving Picasso,1996,"['Drama', 'Romance']",['United States of America'],['North America'],16000000,1985001,5.3,21,en
+Love Is All There Is,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],0,0,5.5,2,en
+Beautiful Thing,1996,"['Comedy', 'Drama', 'Romance']",['United Kingdom'],['Western Europe'],0,1500000,7.3,76,en
+The Long Kiss Goodnight,1996,"['Crime', 'Action', 'Mystery', 'Thriller']",['United States of America'],['North America'],65000000,89456761,6.4,323,en
+The Ghost and the Darkness,1996,['Adventure'],"['Germany', 'United States of America']","['North America', 'Western Europe']",50000000,75000000,6.4,238,en
+Looking for Richard,1996,['Documentary'],['United States of America'],['North America'],0,0,6.9,33,en
+Normal Life,1996,"['Crime', 'Drama']",['United States of America'],['North America'],0,0,6.8,8,en
+Get on the Bus,1996,['Drama'],['United States of America'],['North America'],2400000,5731103,7,11,en
+Shadow Conspiracy,1997,"['Action', 'Thriller']",['United States of America'],['North America'],45000000,2154540,4,12,en
+Jude,1996,"['Drama', 'Romance']",['United Kingdom'],['Western Europe'],7000000,405000,6.6,38,en
+Everyone Says I Love You,1996,"['Music', 'Comedy', 'Romance']",['United States of America'],['North America'],20000000,0,6.5,149,en
+Bitter Sugar,1996,"['Drama', 'Romance']","['United States of America', 'Dominican Republic']","['North America', 'Other']",0,0,6.3,3,es
+Romeo + Juliet,1996,"['Drama', 'Romance']",['United States of America'],['North America'],14500000,147298761,6.7,1406,en
+Swingers,1996,"['Comedy', 'Romance']",['United States of America'],['North America'],200000,4505922,6.8,255,en
+Sleepers,1996,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],44000000,165615285,7.3,729,en
+The Sunchaser,1996,['Drama'],['United States of America'],['North America'],0,0,6.1,8,en
+Johns,1996,['Drama'],['United States of America'],['North America'],0,0,6,6,en
+Aladdin and the King of Thieves,1996,"['Adventure', 'Animation', 'Family']",['United States of America'],['North America'],0,0,6.1,494,en
+For the Moment,1993,"['War', 'Drama', 'Romance', 'Action']",['Canada'],['North America'],120,0,7.4,3,en
+The Sexual Life of the Belgians,1994,"['Comedy', 'Romance']",['Belgium'],['Western Europe'],0,0,5,2,it
+Reservoir Dogs,1992,"['Crime', 'Thriller']",['United States of America'],['North America'],1200000,14661007,8.1,3821,en
+Basic Instinct,1992,"['Thriller', 'Mystery']","['France', 'United States of America']","['North America', 'Western Europe']",49000000,352927224,6.5,869,en
+The Doors,1991,"['Drama', 'Music']",['United States of America'],['North America'],38000000,34416893,6.7,285,en
+The Crying Game,1992,"['Romance', 'Crime', 'Drama', 'Thriller']","['Japan', 'United Kingdom', 'Ireland']","['East Asia', 'Other', 'Western Europe']",3705538,62548947,6.9,180,en
+Glengarry Glen Ross,1992,"['Crime', 'Drama', 'Mystery']",['United States of America'],['North America'],12500000,10725228,7.5,330,en
+The Search for One-eye Jimmy,1994,['Comedy'],['United States of America'],['North America'],0,0,6.3,4,en
+Days of Thunder,1990,['Adventure'],['United States of America'],['North America'],60000000,157920733,5.9,359,en
+American Strays,1996,"['Action', 'Comedy']",['United States of America'],['North America'],0,1910,6.8,5,en
+Children of the Corn IV: The Gathering,1996,['Horror'],['United States of America'],['North America'],0,0,4.6,41,en
+The Leopard Son,1996,['Documentary'],"['Netherlands', 'United States of America']","['North America', 'Western Europe']",0,0,0,0,en
+Charm's  Incidents,1996,['Comedy'],['Austria'],['Other'],0,0,0,0,de
+Bird of Prey,1995,"['Crime', 'Drama']","['United States of America', 'Bulgaria']","['North America', 'Other']",0,0,0,0,es
+Microcosmos,1996,['Documentary'],"['France', 'Italy', 'Switzerland']",['Western Europe'],0,0,7.7,61,fr
+Palookaville,1995,['Comedy'],['United States of America'],['North America'],0,0,5.4,7,en
+The Associate,1996,['Comedy'],['United States of America'],['North America'],0,0,6.2,49,en
+The Funeral,1996,"['Crime', 'Drama']",['United States of America'],['North America'],12500000,1227324,7.3,31,en
+A Single Girl,1995,['Drama'],['France'],['Western Europe'],0,0,6.8,8,fr
+The Eighth Day,1996,['Drama'],"['France', 'Belgium', 'United Kingdom']",['Western Europe'],0,0,7,56,fr
+North Star,1996,"['Action', 'Adventure', 'Drama', 'Western']",['United States of America'],['North America'],0,0,5.2,3,en
+Drunks,1997,['Drama'],['United States of America'],['North America'],0,0,0,0,en
+The People vs. Larry Flynt,1996,['Drama'],['United States of America'],['North America'],36000000,20300385,6.8,257,en
+Glory Daze,1995,['Comedy'],['United States of America'],['North America'],0,0,5.8,15,en
+Drop Dead Fred,1991,"['Comedy', 'Fantasy', 'Family']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",6788000,13878334,5.9,107,en
+Johnny 100 Pesos,1993,['Drama'],"['Chile', 'Mexico']",['Latin America'],0,0,6.3,3,es
+Hustler White,1996,"['Romance', 'Drama']","['Canada', 'Germany']","['North America', 'Western Europe']",0,127251,6.8,12,en
+Everything Relative,1996,['Drama'],['United States of America'],['North America'],0,0,4,1,en
+Three Lives and Only One Death,1996,"['Comedy', 'Crime']","['Portugal', 'France']","['Other', 'Western Europe']",500000,0,8,5,en
+When We Were Kings,1996,['Documentary'],['United States of America'],['North America'],0,2666118,7.3,54,en
+The Wrong Trousers,1993,"['Animation', 'Comedy', 'Family']",['United Kingdom'],['Western Europe'],0,0,7.6,266,en
+JLG/JLG: Self-Portrait in December,1995,['Documentary'],['France'],['Western Europe'],0,0,7.7,3,fr
+Faust,1994,"['Animation', 'Drama', 'Fantasy']","['Czech Republic', 'France', 'United Kingdom']","['Eastern Europe', 'Western Europe']",0,0,7.4,22,cs
+Mina Tannenbaum,1994,"['Drama', 'Comedy']","['France', 'Belgium', 'Netherlands']",['Western Europe'],0,0,4.8,3,fr
+Dear God,1996,['Comedy'],['United States of America'],['North America'],0,0,5.1,17,en
+Bad Moon,1996,['Horror'],['United States of America'],['North America'],7000000,1100000,5.7,33,en
+American Dream,1990,['Documentary'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,269823,6,2,en
+Best of the Best 3: No Turning Back,1995,['Action'],['United States of America'],['North America'],0,0,5.8,13,en
+Bob Roberts,1992,"['Comedy', 'Drama']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.5,44,en
+Dead Tired,1994,['Comedy'],['France'],['Western Europe'],0,0,5.6,9,fr
+Delicatessen,1991,"['Comedy', 'Science Fiction', 'Fantasy']",['France'],['Western Europe'],4000000,1794187,7.4,320,fr
+The Double Life of Veronique,1991,"['Drama', 'Thriller']","['France', 'Norway', 'Poland']","['Eastern Europe', 'Northern Europe', 'Western Europe']",0,1999955,7.3,154,fr
+Enchanted April,1991,"['Romance', 'Drama']",['United Kingdom'],['Western Europe'],0,13200170,6.9,25,en
+The Grifters,1990,"['Crime', 'Drama']",['United States of America'],['North America'],0,13446769,6.5,112,en
+The Shooter,1997,['Western'],['United States of America'],['North America'],0,0,5,1,en
+The English Patient,1996,"['Drama', 'Romance', 'War']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",27000000,231976425,7,559,en
+Mediterraneo,1991,"['Comedy', 'Romance', 'War']",['Italy'],['Western Europe'],0,4532791,7.4,157,it
+Passion Fish,1992,['Drama'],['United States of America'],['North America'],0,0,6.7,7,en
+Strictly Ballroom,1992,"['Comedy', 'Drama', 'Romance']",['Australia'],['Oceania'],3000000,33946224,6.2,83,en
+Madonna: Truth or Dare,1991,"['Documentary', 'Music']",['United States of America'],['North America'],4,29,6.3,32,en
+Paris is Burning,1990,['Documentary'],['United States of America'],['North America'],500000,3779620,8.2,67,en
+GoodFellas,1990,"['Drama', 'Crime']",['United States of America'],['North America'],25000000,46836394,8.2,3211,en
+Army of Darkness,1992,"['Fantasy', 'Horror', 'Comedy']",['United States of America'],['North America'],11000000,0,7.3,852,en
+A Grand Day Out,1990,"['Adventure', 'Animation', 'Comedy', 'Science Fiction', 'Family']",['United Kingdom'],['Western Europe'],0,0,7.4,199,en
+Trust,1990,"['Drama', 'Comedy']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",700000,0,6.5,24,en
+Braindead,1992,"['Horror', 'Comedy']",['New Zealand'],['Oceania'],3000000,242623,7.4,388,en
+Rosencrantz & Guildenstern Are Dead,1991,"['Comedy', 'Drama']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7.3,75,en
+Miller's Crossing,1990,"['Drama', 'Thriller', 'Crime']",['United States of America'],['North America'],14000000,5080409,7.5,431,en
+La Femme Nikita,1990,"['Action', 'Thriller']","['France', 'Italy']",['Western Europe'],0,5000000,7,511,fr
+Groundhog Day,1993,"['Romance', 'Fantasy', 'Drama', 'Comedy']",['United States of America'],['North America'],14600000,70906973,7.4,2358,en
+Unforgiven,1992,['Western'],['United States of America'],['North America'],14000000,159157447,7.7,1133,en
+Pump up the Volume,1990,"['Music', 'Drama']","['Canada', 'United States of America']",['North America'],0,11541758,7,86,en
+Fried Green Tomatoes,1991,"['Drama', 'Comedy']",['United States of America'],['North America'],11000000,119418501,7.6,298,en
+Cyrano de Bergerac,1990,"['Drama', 'Comedy', 'History', 'Romance']",['France'],['Western Europe'],0,0,6.8,131,fr
+Night on Earth,1991,"['Comedy', 'Drama']","['Germany', 'Finland', 'France', 'United Kingdom', 'United States of America']","['North America', 'Northern Europe', 'Western Europe']",3500000,2015810,7.5,165,en
+Raise the Red Lantern,1991,['Drama'],"['China', 'Hong Kong', 'Taiwan']",['East Asia'],0,0,7.8,139,zh
+Until the End of the World,1991,"['Thriller', 'Drama', 'Science Fiction', 'Action']","['Australia', 'France', 'Germany', 'United States of America']","['North America', 'Western Europe', 'Oceania']",23000000,0,6.3,45,de
+Hype!,1996,"['Documentary', 'Music']",['United States of America'],['North America'],0,0,6.8,12,en
+Santa with Muscles,1996,"['Family', 'Comedy']",['United States of America'],['North America'],0,0,3.5,20,en
+Female Perversions,1996,"['Drama', 'Romance']","['Germany', 'United States of America']","['North America', 'Western Europe']",0,0,5.4,10,en
+Mad Dog Time,1996,"['Drama', 'Action', 'Comedy', 'Crime']",['United States of America'],['North America'],0,0,6.2,12,en
+Breathing Room,1996,"['Romance', 'Comedy']",['United States of America'],['North America'],0,0,0,0,en
+Paris Was a Woman,1996,['Documentary'],"['Germany', 'United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7,1,en
+I'm Not Rappaport,1996,['Comedy'],['United States of America'],['North America'],0,0,6.2,8,en
+Blue Juice,1995,"['Comedy', 'Romance']",['United Kingdom'],['Western Europe'],0,0,3.6,13,en
+Alien³,1992,"['Science Fiction', 'Action', 'Horror']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",50000000,159773545,6.2,1664,en
+Amityville: It's About Time,1992,['Horror'],['United States of America'],['North America'],0,0,4.1,21,en
+Amityville: Dollhouse,1996,['Horror'],['United States of America'],['North America'],0,0,3.5,17,en
+Amityville: A New Generation,1993,['Horror'],['United States of America'],['North America'],1500000,0,2.8,17,en
+Body Parts,1991,"['Horror', 'Thriller']",['United States of America'],['North America'],0,0,5.6,24,en
+Dracula,1992,"['Romance', 'Horror']",['United States of America'],['North America'],40000000,215862692,7.1,1087,en
+Candyman,1992,"['Drama', 'Horror', 'Thriller']",['United States of America'],['North America'],6000000,25792310,6.2,303,en
+Cape Fear,1991,"['Crime', 'Thriller']",['United States of America'],['North America'],35000000,182300000,7,692,en
+Blood and Wine,1996,"['Crime', 'Drama', 'Thriller']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",26000000,0,5.5,34,en
+Albino Alligator,1996,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],6000000,0,5.6,45,en
+The Mirror Has Two Faces,1996,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],42000000,0,6.5,47,en
+Breaking the Waves,1996,"['Drama', 'Romance']","['Denmark', 'France', 'Iceland', 'Netherlands', 'Norway', 'Sweden']","['Northern Europe', 'Western Europe']",0,3803298,7.2,213,da
+Nightwatch,1997,"['Action', 'Drama', 'Horror', 'Mystery', 'Thriller']",['United States of America'],['North America'],0,1179002,6.2,104,en
+Star Trek: First Contact,1996,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],46000000,150000000,7,671,en
+Shine,1996,['Drama'],['Australia'],['Oceania'],0,0,7.3,136,en
+Sling Blade,1996,['Drama'],['United States of America'],['North America'],1000000,24444121,7.4,236,en
+Jingle All the Way,1996,"['Family', 'Comedy']",['United States of America'],['North America'],60000000,129832389,5.5,583,en
+Paradise Lost: The Child Murders at Robin Hood Hills,1996,"['Documentary', 'Drama']",['United States of America'],['North America'],0,0,7.9,38,en
+The Preacher's Wife,1996,"['Fantasy', 'Drama', 'Comedy', 'Science Fiction', 'Romance', 'Family']",['United States of America'],['North America'],40000000,48093211,5.4,55,en
+Zero Kelvin,1995,"['Drama', 'Thriller']","['Sweden', 'Norway']",['Northern Europe'],2535000,0,6.4,5,no
+Ridicule,1996,"['Comedy', 'Drama', 'Romance']",['France'],['Western Europe'],3000000,2503829,7.4,30,en
+The Crucible,1996,"['Drama', 'History']",['United States of America'],['North America'],25000000,0,6.7,134,en
+101 Dalmatians,1996,"['Comedy', 'Family']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",54000000,320689294,5.6,722,en
+I Can't Sleep,1994,"['Drama', 'Mystery']","['France', 'Germany', 'Switzerland']",['Western Europe'],0,0,5,1,fr
+Die Hard 2,1990,"['Action', 'Thriller']",['United States of America'],['North America'],70000000,240031094,6.6,1920,en
+Star Trek VI: The Undiscovered Country,1991,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],27000000,96900000,6.7,421,en
+Batman Returns,1992,"['Action', 'Fantasy']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",80000000,280000000,6.6,1706,en
+Young Guns II,1990,"['Western', 'Adventure']",['United States of America'],['North America'],20000000,0,6.3,165,en
+Marked for Death,1990,"['Action', 'Thriller']",['United States of America'],['North America'],12000000,46044400,5.6,100,en
+Adrenalin: Fear the Rush,1996,"['Action', 'Science Fiction', 'Thriller']",['United States of America'],['North America'],0,0,3.9,19,en
+The Substance of Fire,1996,['Drama'],['United States of America'],['North America'],0,0,6,1,en
+Under Siege,1992,"['Action', 'Thriller']","['France', 'United States of America']","['North America', 'Western Europe']",35000000,156563139,6.1,405,en
+My Fellow Americans,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,0,6.3,46,en
+Mars Attacks!,1996,"['Comedy', 'Fantasy', 'Science Fiction']",['United States of America'],['North America'],70000000,101371017,6.1,1544,en
+Citizen Ruth,1996,"['Drama', 'Comedy']",['United States of America'],['North America'],3000000,153155,6.8,27,en
+Jerry Maguire,1996,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],50000000,273552592,6.7,941,en
+Sneakers,1992,"['Comedy', 'Crime', 'Drama']",['United States of America'],['North America'],0,105232691,6.7,301,en
+In Love and War,1996,"['Drama', 'Romance']",['United States of America'],['North America'],0,0,6,28,en
+Marvin's Room,1996,['Drama'],['United States of America'],['North America'],23000000,12803305,6.6,130,en
+Somebody Is Waiting,1996,['Drama'],['United States of America'],['North America'],0,0,0,0,en
+Ghosts of Mississippi,1996,"['History', 'Drama']",['United States of America'],['North America'],0,0,6.2,40,en
+Night Falls on Manhattan,1996,"['Drama', 'Crime']",['United States of America'],['North America'],0,0,6.6,24,en
+Beavis and Butt-Head Do America,1996,"['Animation', 'Comedy']",['United States of America'],['North America'],12000000,0,6.5,169,en
+La Cérémonie,1995,"['Drama', 'Thriller']","['France', 'Germany']",['Western Europe'],0,0,7,40,fr
+Scream,1996,"['Crime', 'Horror', 'Mystery']",['United States of America'],['North America'],14000000,173046663,7,1520,en
+The Last of the Mohicans,1992,"['Action', 'Adventure', 'Drama', 'History', 'Romance', 'War']",['United States of America'],['North America'],40000000,75505856,7.1,747,en
+Michael,1996,"['Comedy', 'Drama', 'Fantasy']",['United States of America'],['North America'],0,119718203,5.5,174,en
+The Evening Star,1996,"['Drama', 'Romance', 'Family', 'Comedy']",['United States of America'],['North America'],0,0,5.8,18,en
+Hamlet,1996,['Drama'],"['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,7.3,118,en
+Some Mother's Son,1996,"['Drama', 'History']","['United Kingdom', 'Ireland']","['Other', 'Western Europe']",0,0,7,6,en
+Mother,1996,['Comedy'],['United States of America'],['North America'],0,0,6.8,19,en
+Thieves,1996,"['Romance', 'Crime', 'Drama']",['France'],['Western Europe'],0,0,7,5,fr
+Evita,1996,"['History', 'Drama', 'Music']","['United States of America', 'Hungary']","['North America', 'Eastern Europe']",55000000,141047179,5.9,122,en
+The Portrait of a Lady,1996,"['Drama', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,3692836,6.3,46,en
+Message to Love: The Isle of Wight Festival,1996,"['Documentary', 'Music']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,6.4,4,en
+Murder at 1600,1997,"['Action', 'Drama', 'Mystery', 'Thriller', 'Crime']",['United States of America'],['North America'],0,25804707,5.8,130,en
+Inside,1996,"['Crime', 'Drama', 'TV Movie']",['United States of America'],['North America'],0,0,0,1,en
+Fierce Creatures,1997,"['Comedy', 'Romance']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,9381260,6,95,en
+Zeus & Roxanne,1997,"['Action', 'Adventure', 'Comedy', 'Family', 'Romance']",['United States of America'],['North America'],0,0,4.2,16,en
+Turbulence,1997,"['Action', 'Thriller', 'Crime']",['United States of America'],['North America'],55000000,11466088,5.2,63,en
+Angel Baby,1995,['Drama'],['Australia'],['Oceania'],0,0,7.7,3,en
+First Strike,1996,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Thriller']","['Australia', 'Hong Kong', 'Russia', 'United States of America']","['North America', 'East Asia', 'Eastern Europe', 'Oceania']",0,21890845,6.5,101,cn
+Beverly Hills Ninja,1997,"['Action', 'Comedy']",['United States of America'],['North America'],0,0,5.5,176,en
+Metro,1997,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",['United States of America'],['North America'],55000000,31987563,5.3,136,en
+The Cement Garden,1993,['Drama'],"['France', 'Germany', 'United Kingdom']",['Western Europe'],0,322975,7.2,23,en
+Dante's Peak,1997,"['Action', 'Adventure', 'Thriller']",['United States of America'],['North America'],116000000,178127760,5.8,445,en
+Meet Wally Sparks,1997,['Comedy'],['United States of America'],['North America'],0,0,5.3,10,en
+Amos & Andrew,1993,"['Action', 'Comedy']",['United States of America'],['North America'],0,0,5,47,en
+Benny & Joon,1993,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,23202734,6.9,220,en
+Prefontaine,1997,"['Drama', 'Romance']",['United States of America'],['North America'],8000000,589304,6.7,21,en
+A Tickle in the Heart,1996,['Documentary'],"['Germany', 'Switzerland']",['Western Europe'],0,0,0,0,en
+Guantanamera,1995,"['Drama', 'Comedy', 'Romance', 'Foreign']","['Spain', 'Germany', 'Cuba']","['Other', 'Western Europe']",0,0,8,3,es
+McHale's Navy,1997,"['Action', 'Comedy', 'Romance']",['United States of America'],['North America'],0,4529843,4.4,27,en
+Kolya,1996,"['Music', 'Drama', 'Comedy']","['France', 'Czech Republic', 'United Kingdom']","['Eastern Europe', 'Western Europe']",0,5770254,7.5,46,cs
+Gridlock'd,1997,"['Crime', 'Drama', 'Comedy']",['United States of America'],['North America'],0,0,6.8,55,en
+Waiting for Guffman,1996,"['Music', 'Comedy']",['United States of America'],['North America'],0,0,7.4,66,en
+Prisoner of the Mountains,1996,"['Drama', 'War']","['Russia', 'Kazakhstan']","['Eastern Europe', 'Other']",0,0,6.6,14,ru
+The Beautician and the Beast,1997,"['Comedy', 'Romance']",['United States of America'],['North America'],16000000,0,5.2,53,en
+SubUrbia,1996,"['Comedy', 'Drama']",['United States of America'],['North America'],0,656747,6.4,32,en
+Hotel de Love,1996,"['Comedy', 'Foreign', 'Romance']",['Australia'],['Oceania'],0,0,4.3,2,en
+The Pest,1997,"['Action', 'Comedy']",['United States of America'],['North America'],17000000,0,5,35,en
+Fools Rush In,1997,"['Drama', 'Comedy', 'Romance']",['United States of America'],['North America'],0,29481428,5.8,133,en
+Touch,1997,"['Action', 'Comedy', 'Drama', 'Foreign', 'Romance']",['United States of America'],['North America'],0,0,6,10,en
+Absolute Power,1997,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],50000000,50068310,6.4,226,en
+Vegas Vacation,1997,['Comedy'],['United States of America'],['North America'],25000000,36400360,6,175,en
+That Old Feeling,1997,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],0,0,7.1,15,en
+Lost Highway,1997,"['Drama', 'Thriller', 'Mystery']",['United States of America'],['North America'],15000000,3675201,7.5,572,en
+Rosewood,1997,"['Drama', 'History']",['United States of America'],['North America'],30000000,13130349,6.7,31,en
+Donnie Brasco,1997,"['Crime', 'Drama', 'Thriller']",['United States of America'],['North America'],35000000,41954997,7.4,1175,en
+Salut cousin !,1996,['Comedy'],"['France', 'Algeria', 'Belgium', 'Luxembourg']","['Other', 'Western Europe']",0,0,3.3,4,fr
+Booty Call,1997,['Comedy'],['United States of America'],['North America'],0,20060051,5.6,29,en
+Rhyme & Reason,1997,['Documentary'],['United States of America'],['North America'],0,0,6.3,8,en
+Boys Life 2,1997,"['Drama', 'Romance']",['United States of America'],['North America'],0,532654,5,1,en
+City of Industry,1997,"['Crime', 'Thriller', 'Drama']",['United States of America'],['North America'],8000000,0,5.6,14,en
+Best Men,1997,"['Comedy', 'Romance']",['United States of America'],['North America'],1000000,0,5.6,8,en
+Jungle 2 Jungle,1997,"['Comedy', 'Family']",['United States of America'],['North America'],0,0,4.9,122,en
+Kama Sutra - A Tale of Love,1996,"['Drama', 'History', 'Romance']","['United Kingdom', 'India', 'United States of America', 'Japan', 'Germany']","['North America', 'South Asia', 'East Asia', 'Western Europe']",3000000,4109095,5.7,36,en
+Private Parts,1997,"['Comedy', 'Drama']",['United States of America'],['North America'],28000000,41230799,6.7,106,en
+Love Jones,1997,"['Comedy', 'Drama', 'Romance']",['United States of America'],['North America'],10000000,0,8.1,12,en
+The Saint,1997,"['Thriller', 'Action', 'Romance', 'Science Fiction', 'Adventure']",['United States of America'],['North America'],68000000,118063304,5.9,310,en
+Smilla's Sense of Snow,1997,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']","['Germany', 'Denmark', 'Sweden']","['Northern Europe', 'Western Europe']",35000000,0,6.6,61,en
+The Van,1996,"['Comedy', 'Drama']","['Ireland', 'United Kingdom']","['Other', 'Western Europe']",0,0,5.9,15,en
+Crash,1996,"['Drama', 'Thriller', 'Romance']",['Canada'],['North America'],10000000,0,6.5,224,en
+The Daytrippers,1996,"['Comedy', 'Drama', 'Mystery']","['Canada', 'United States of America']",['North America'],0,0,6.2,11,en
+Liar Liar,1997,['Comedy'],['United States of America'],['North America'],45000000,302710615,6.4,1456,en
+Selena,1997,['Drama'],['United States of America'],['North America'],20000000,60000000,7.1,115,en
+The Devil's Own,1997,"['Crime', 'Thriller', 'Drama']",['United States of America'],['North America'],90000000,140807547,5.9,300,en
+Cats Don't Dance,1997,"['Animation', 'Comedy', 'Family', 'Music']",['United States of America'],['North America'],32000000,3566637,7.1,25,en
+Love and Other Catastrophes,1996,"['Comedy', 'Romance']",['Australia'],['Oceania'],0,0,5.8,9,it
+Turbo: A Power Rangers Movie,1997,"['Action', 'Adventure', 'Family', 'Fantasy', 'Science Fiction', 'Thriller']","['Japan', 'United States of America']","['North America', 'East Asia']",10000000,17979739,4.6,60,en
+Anna Karenina,1997,"['Drama', 'Romance']",['United States of America'],['North America'],35000000,791830,6.4,26,en
+Double Team,1997,"['Action', 'Science Fiction']",['United States of America'],['North America'],30000000,0,4.4,163,en
+Inventing the Abbotts,1997,"['Drama', 'Romance']",['United States of America'],['North America'],0,5926128,6.4,43,en
+Anaconda,1997,"['Adventure', 'Horror', 'Thriller']","['Brazil', 'Peru', 'United States of America']","['North America', 'Latin America', 'Other']",45000000,136885767,4.8,624,en
+Grosse Pointe Blank,1997,"['Action', 'Comedy', 'Thriller', 'Romance']",['United States of America'],['North America'],0,28084357,6.9,278,en
+Kissed,1996,"['Romance', 'Drama']",['Canada'],['North America'],0,0,7,21,en
+8 Heads in a Duffel Bag,1997,"['Comedy', 'Crime']","['United Kingdom', 'United States of America']","['North America', 'Western Europe']",0,0,5.4,39,en
+Paradise Road,1997,"['War', 'Drama', 'History']","['Australia', 'United States of America']","['North America', 'Oceania']",16000000,0,6.2,21,en
+Traveller,1997,"['Drama', 'Crime']",['United States of America'],['North America'],0,0,5.9,6,en
+All Over Me,1997,"['Drama', 'Romance']",['United Kingdom'],['Western Europe'],0,0,5.9,15,en
+A Chef in Love,1996,"['Drama', 'Comedy', 'Romance', 'Foreign']","['Russia', 'France', 'Georgia', 'Ukraine', 'Belgium']","['Eastern Europe', 'Other', 'Western Europe']",0,0,3.5,2,fr
+Romy and Michele's High School Reunion,1997,['Comedy'],['United States of America'],['North America'],0,29235353,6,160,en
