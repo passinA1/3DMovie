@@ -12,10 +12,12 @@ public class CSVReader : MonoBehaviour
     public TextAsset csvFile;
     public static List<MovieData> allMovies = new List<MovieData>();
 
-    // 根据截图需求建立的索引系统
+    // 索引系统
     public static Dictionary<int, List<MovieData>> yearIndex = new Dictionary<int, List<MovieData>>();
     public static Dictionary<string, List<MovieData>> genreIndex = new Dictionary<string, List<MovieData>>();
     public static Dictionary<string, List<MovieData>> countryIndex = new Dictionary<string, List<MovieData>>();
+
+    private static decimal _maxRevenue;  // 全局最大收入值
 
     void Start()
     {
@@ -52,15 +54,24 @@ public class CSVReader : MonoBehaviour
                 Debug.Log("开始解析数据记录...");
 
                 int totalCount = 0, validCount = 0;
+
+                //设置最大revenue
+                decimal globalMaxRevenue = 0;
+
                 foreach (var record in records)
                 {
+
+                    if (record.revenue > globalMaxRevenue)
+                        globalMaxRevenue = record.revenue;
+
+
                     totalCount++;
-                    Debug.Log($"正在处理第{totalCount}条记录 - 原始数据：{string.Join("|", csv.Parser.RawRecord)}");
+                    //Debug.Log($"正在处理第{totalCount}条记录 - 原始数据：{string.Join("|", csv.Parser.RawRecord)}");
 
                     if (record.IsValid)
                     {
                         var cleaned = CleanData(record);
-                        Debug.Log($"有效记录：{cleaned.title.PadRight(20)} | 年份：{cleaned.releaseYear} | 类型：{string.Join(",", cleaned.genres)} |国家：{string.Join(",",cleaned.productionCountries)}");
+                        //Debug.Log($"有效记录：{cleaned.title.PadRight(20)} | 年份：{cleaned.releaseYear} | 类型：{string.Join(",", cleaned.genres)} |国家：{string.Join(",",cleaned.productionCountries)}");
                         allMovies.Add(cleaned);
                         validCount++;
                     }
@@ -69,6 +80,7 @@ public class CSVReader : MonoBehaviour
                         Debug.LogWarning($"无效记录：标题[{record.title}] 年份[{record.releaseYear}] 类型数[{record.genres?.Count}]");
                     }
                 }
+                _maxRevenue = globalMaxRevenue;
                 Debug.Log($"解析完成，共处理{totalCount}条记录，有效记录{validCount}条");
             }
             catch (System.Exception ex)
@@ -92,6 +104,10 @@ public class CSVReader : MonoBehaviour
     {
         foreach (var movie in allMovies)
         {
+
+            movie.normalizedRevenue = Mathf.Clamp((float)(movie.revenue / _maxRevenue) * 5f, 0f, 5f);
+            movie.genreColor = GetGenreColor(movie.genres.FirstOrDefault());
+
             // 年份索引
             if (!yearIndex.ContainsKey(movie.releaseYear))
                 yearIndex[movie.releaseYear] = new List<MovieData>();
@@ -109,12 +125,57 @@ public class CSVReader : MonoBehaviour
             // 国家索引
             foreach (var country in movie.productionCountries)
             {
-                var code = GetCountryCode(country.Trim());
+                var code =country.Trim();
                 if (!countryIndex.ContainsKey(code))
                     countryIndex[code] = new List<MovieData>();
                 countryIndex[code].Add(movie);
             }
         }
+    }
+
+    // 类型颜色映射
+    private static readonly Dictionary<string, Color> _genreColors = new Dictionary<string, Color>
+    {
+        // 基础三原色
+    {"Animation",    new Color(1.0f, 0.2f, 0.2f, 0.3f)},   // 鲜艳红（卡通风格）
+    {"Comedy",       new Color(0.3f, 0.8f, 0.2f, 0.3f)},   // 苹果绿（轻松明快）
+    {"Drama",        new Color(0.2f, 0.4f, 1.0f, 0.3f)},   // 深蓝（情感深邃）
+
+    // 悬疑/惊悚类
+    {"Thriller",     new Color(0.5f, 0.5f, 0.5f, 0.3f)},   // 中灰色（紧张氛围）
+    {"Mystery",      new Color(0.4f, 0.1f, 0.6f, 0.3f)},   // 深紫色（神秘感）
+
+    // 动作/冒险类
+    {"Action",       new Color(1.0f, 0.6f, 0.0f, 0.3f)},   // 橙红（激烈动作）
+    {"Adventure",    new Color(1.0f, 0.8f, 0.0f, 0.3f)},   // 金色（探险精神）
+    {"War",          new Color(0.6f, 0.3f, 0.2f, 0.3f)},   // 赭石色（战场泥土）
+
+    // 爱情/家庭类  
+    {"Romance",      new Color(1.0f, 0.4f, 0.7f, 0.3f)},   // 粉红（浪漫）
+    {"Family",       new Color(0.9f, 0.9f, 0.2f, 0.3f)},   // 明黄色（温馨）
+
+    // 科幻/奇幻类
+    {"Science Fiction", new Color(0.0f, 0.8f, 1.0f, 0.3f)},// 荧光蓝（科技感）
+    {"Fantasy",       new Color(0.6f, 0.2f, 1.0f, 0.3f)},  // 紫罗兰（魔幻）
+
+    // 犯罪/黑色类
+    {"Crime",        new Color(0.3f, 0.3f, 0.3f, 0.3f)},   // 炭灰（阴暗）
+    {"Horror",       new Color(0.3f, 0.0f, 0.0f, 0.3f)},   // 暗红（血腥）
+
+    // 纪实/历史类
+    {"Documentary",  new Color(0.6f, 0.6f, 0.6f, 0.3f)},   // 银灰（纪实中性）
+    {"History",      new Color(0.5f, 0.4f, 0.2f, 0.3f)},   // 棕褐（复古）
+
+    // 特殊类别
+    {"Foreign",      new Color(0.8f, 0.6f, 1.0f, 0.3f)},   // 薰衣草紫（异域）
+    {"Music",        new Color(0.9f, 0.2f, 0.8f, 0.3f)},   // 品红（动感）
+    {"TV Movie",     new Color(0.7f, 0.7f, 0.9f, 0.3f)},   // 淡蓝灰（电视荧幕）
+    {"Western",      new Color(0.8f, 0.5f, 0.3f, 0.3f)},   // 陶土红（西部荒漠）
+    };
+
+    private Color GetGenreColor(string genre)
+    {
+        return _genreColors.TryGetValue(genre, out var color) ? color : new Color(1, 1, 1, 0.3f); // 默认白色
     }
 
     #region 数据清理方法
@@ -208,6 +269,12 @@ public class MovieData
     public float voteAverage;
     public int voteCount;
     public string originalLanguage;
+
+    [System.NonSerialized]
+    public float normalizedRevenue; // 标准化后的收入值
+
+    [System.NonSerialized]
+    public Color genreColor;        // 类型对应的颜色
 
     public bool IsValid =>
         !string.IsNullOrEmpty(title) &&
